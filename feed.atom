@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>urn:2024-09-12T11:22:35.145Z</id>
+    <title>osmos::feed</title>
+    <updated>2024-09-12T11:22:35.145Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
+    <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Music Production for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/learn-music-production-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/learn-music-production-for-beginners/"/>
+        <updated>2024-09-11T20:08:18.000Z</updated>
+        <summary type="html"><![CDATA[Are you interested in exploring the world of music production but don't know where to start? We just posted comprehensive course designed for beginners that will guide you through the process of creating music tracks in various styles using FL Studio...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Expense Tracker with HTML, CSS, and JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-an-expense-tracker-with-html-css-and-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-expense-tracker-with-html-css-and-javascript/"/>
+        <updated>2024-09-11T17:25:59.000Z</updated>
+        <summary type="html"><![CDATA[Building projects is a great way to practice and improve your web development skills. And that's what we'll do in this in-depth tutorial: build a practical project using HTML, CSS, and JavaScript. If you often find yourself wondering where all your m...]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API Testing with Postman: A Step-by-Step Guide Using the Spotify API]]></title>
+        <id>https://www.freecodecamp.org/news/api-testing-with-postman-a-step-by-step-guide-using-the-spotify-api/</id>
+        <link href="https://www.freecodecamp.org/news/api-testing-with-postman-a-step-by-step-guide-using-the-spotify-api/"/>
+        <updated>2024-09-11T17:23:24.000Z</updated>
+        <summary type="html"><![CDATA[🎯 The Objective In this guide, I’ll introduce you to Postman, a popular API development and testing tool. If you are a beginner mainly focused on frontend development, you may not have had much experience fetching data from an API. And in that case ...]]></summary>
+        <author>
+            <name>Matthes B.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Event Handling Works in Vue 3: A Guide for Developers]]></title>
+        <id>https://www.freecodecamp.org/news/how-event-handling-works-in-vue-3-guide-for-devs/</id>
+        <link href="https://www.freecodecamp.org/news/how-event-handling-works-in-vue-3-guide-for-devs/"/>
+        <updated>2024-09-11T17:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Event handling in Vue 3 allows developers to respond to user interactions like clicks, key presses, form submissions, and more. Vue provides simple and flexible ways to manage these interactions, enabling you to build dynamic and engaging application...]]></summary>
+        <author>
+            <name>Asfak Ahmed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verschiedenes]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9819#top2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9819#top2"/>
+        <updated>2024-09-11T15:33:30.000Z</updated>
+        <summary type="html"><![CDATA[Verschiedenes]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vorschlag des Ortschaftsrates zur Wahl der Ortsvorsteherin bzw. des Ortsvorstehers durch den Gemeinderat der Stadt Karlsruhe]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9819#top1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9819#top1"/>
+        <updated>2024-09-11T15:33:30.000Z</updated>
+        <summary type="html"><![CDATA[Vorschlag des Ortschaftsrates zur Wahl der Ortsvorsteherin bzw. des Ortsvorstehers durch den Gemeinderat der Stadt Karlsruhe]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two Ways to Create Custom Translated Messaging for HTML Forms]]></title>
+        <id>https://css-tricks.com/?p=380325</id>
+        <link href="https://css-tricks.com/two-ways-to-create-custom-translated-messaging-for-html-forms/"/>
+        <updated>2024-09-11T14:42:20.000Z</updated>
+        <summary type="html"><![CDATA[HTML forms come with built-in ways to validate form inputs and other controls against predefined rules such as making an input required, setting min and max constraints on range sliders, or establishing a pattern on an email input to check …
+Two Ways to Create Custom Translated Messaging for HTML Forms originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Fatuma Abdullaho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pass the Azure AI Engineer Associate Certification (AI-102)]]></title>
+        <id>https://www.freecodecamp.org/news/pass-the-azure-ai-engineer-associate-certification-ai-102/</id>
+        <link href="https://www.freecodecamp.org/news/pass-the-azure-ai-engineer-associate-certification-ai-102/"/>
+        <updated>2024-09-10T18:45:40.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to take your AI skills to the next level and earn the Azure AI Engineer Associate Certification (AI-102)? We just posted a comprehensive course on the freeCodeCamp.org YouTube channel that is designed to help you prepare for and pass th...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #18]]></title>
+        <id>https://css-tricks.com/?p=380660</id>
+        <link href="https://css-tricks.com/quick-hit-18/"/>
+        <updated>2024-09-10T18:40:28.000Z</updated>
+        <summary type="html"><![CDATA[PSA: Today’s the day that Google’s performance tools officially stops supporting the First Input Delay (FID) metric that was replaced by Interaction to Next Paint (INP).…
+Quick Hit #18 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anchor Positioning Quirks]]></title>
+        <id>https://css-tricks.com/?p=380521</id>
+        <link href="https://css-tricks.com/anchor-positioning-quirks/"/>
+        <updated>2024-09-10T18:33:01.000Z</updated>
+        <summary type="html"><![CDATA[I am thrilled to say, that from this week onwards, the CSS-tricks Almanac has an entry for each property, function, and at-rule related to the new Anchor Positioning API! For the last month, I have tried to fully understand this …
+Anchor Positioning Quirks originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shodan – What to Know About the Internet’s Most Dangerous Search Engine]]></title>
+        <id>https://www.freecodecamp.org/news/shodan-what-to-know-about-the-internets-most-dangerous-search-engine/</id>
+        <link href="https://www.freecodecamp.org/news/shodan-what-to-know-about-the-internets-most-dangerous-search-engine/"/>
+        <updated>2024-09-10T17:43:12.000Z</updated>
+        <summary type="html"><![CDATA[Shodan is a search engine that discovers devices connected to the internet. In this article, we’ll look at why it’s both a valuable tool and a potential threat. When you hear the term “search engine,” your mind likely jumps to Google, Bing, or Yahoo....]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Agents Can Help Supercharge Language Models – A Handbook for Developers]]></title>
+        <id>https://www.freecodecamp.org/news/how-ai-agents-can-supercharge-language-models-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/how-ai-agents-can-supercharge-language-models-handbook/"/>
+        <updated>2024-09-10T17:01:16.000Z</updated>
+        <summary type="html"><![CDATA[The rapid evolution of artificial intelligence (AI) has resulted in a powerful synergy between large language models (LLMs) and AI agents. This dynamic interplay is sort of like the tale of David and Goliath (without the fighting), where nimble AI ag...]]></summary>
+        <author>
+            <name>Vahe Aslanyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Type Predicates in TypeScript? Explained with Code examples]]></title>
+        <id>https://www.freecodecamp.org/news/what-are-type-predicates-in-typescript/</id>
+        <link href="https://www.freecodecamp.org/news/what-are-type-predicates-in-typescript/"/>
+        <updated>2024-09-10T15:43:50.000Z</updated>
+        <summary type="html"><![CDATA[Type predicates are an interesting syntactical feature in TypeScript. While they appear in the same place as return type annotations, they look more like short affirmative sentences than typical annotations. This gives you greater control over type c...]]></summary>
+        <author>
+            <name>Ashutosh Biswas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement API Rate Limiting in Strapi CMS]]></title>
+        <id>https://www.freecodecamp.org/news/implement-api-rate-limiting-in-strapi/</id>
+        <link href="https://www.freecodecamp.org/news/implement-api-rate-limiting-in-strapi/"/>
+        <updated>2024-09-10T14:18:17.000Z</updated>
+        <summary type="html"><![CDATA[Implementing rate limiting in web applications is a necessary web development best practice. In an article published earlier, I delved deep into the benefits and real life use cases of API rate limiting. Some of the benefits include its use by develo...]]></summary>
+        <author>
+            <name>Oluwatobi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Statically and Dynamically Linked Go Binaries Work]]></title>
+        <id>https://www.freecodecamp.org/news/golang-statically-and-dynamically-linked-go-binaries/</id>
+        <link href="https://www.freecodecamp.org/news/golang-statically-and-dynamically-linked-go-binaries/"/>
+        <updated>2024-09-10T14:14:23.000Z</updated>
+        <summary type="html"><![CDATA[One of the biggest strengths of Go is its compiler. It abstracts many things for you and lets you compile your program easily for almost any platform and architecture. And though it seems easy, there are some nuances to it and multiple ways of compil...]]></summary>
+        <author>
+            <name>Alex Pliutau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanding UI]]></title>
+        <id>https://css-tricks.com/?p=380662</id>
+        <link href="https://css-tricks.com/sanding-ui/"/>
+        <updated>2024-09-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jim hit a snag while working on a form. Placing labels next to inputs is trivial with flexbox, sure, but what happened in Jim’s case was a bit of dead-clicking between the labels and radio buttons.
+The issue? Not the …
+Sanding UI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Anticipatory Design Isn’t Working For Businesses]]></title>
+        <id>https://smashingmagazine.com/2024/09/why-anticipatory-design-not-working-businesses/</id>
+        <link href="https://smashingmagazine.com/2024/09/why-anticipatory-design-not-working-businesses/"/>
+        <updated>2024-09-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anticipatory design, powered by Artificial Intelligence (AI), Machine learning (ML), and Big Data (BD), promises to transform user experiences by predicting and fulfilling needs before users even express them. While this proactive approach seems revolutionary, many businesses struggle to meet the high expectations it sets. Joana Cerejo delves into the challenges of anticipatory design, highlights key failures, and offers a framework to help designers and businesses succeed in this complex landscape.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joana Cerejo)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mitteilungen der Ortsverwaltung]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top12</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top12"/>
+        <updated>2024-09-09T15:19:47.000Z</updated>
+        <summary type="html"><![CDATA[Mitteilungen der Ortsverwaltung]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time Travelling CSS With :target]]></title>
+        <id>https://css-tricks.com/?p=380334</id>
+        <link href="https://css-tricks.com/time-travelling-css-with-target/"/>
+        <updated>2024-09-09T15:16:51.000Z</updated>
+        <summary type="html"><![CDATA[Checkbox and radio button hacks are the (in)famous trick for creating games using just CSS. But it turns out that other elements based on user input can be hacked and gamified. There are very cool examples of developers getting creative with CSS games based on…
+Time Travelling CSS With :target originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bauanträge]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top11</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top11"/>
+        <updated>2024-09-09T15:16:18.000Z</updated>
+        <summary type="html"><![CDATA[Bauanträge]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fragen und Anregungen der Einwohnerinnen und Einwohner]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top5</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top5"/>
+        <updated>2024-09-09T15:13:58.000Z</updated>
+        <summary type="html"><![CDATA[Fragen und Anregungen der Einwohnerinnen und Einwohner]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parkplätze Ortsmitte]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top10</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top10"/>
+        <updated>2024-09-09T15:13:27.000Z</updated>
+        <summary type="html"><![CDATA[Parkplätze Ortsmitte]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Einführung und Verpflichtung der am 9. Juni 2024 in den Ortschaftsrat gewählten Personen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top1"/>
+        <updated>2024-09-09T15:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Einführung und Verpflichtung der am 9. Juni 2024 in den Ortschaftsrat gewählten Personen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Änderung der Geschäftsordnung]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top2"/>
+        <updated>2024-09-09T15:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Änderung der Geschäftsordnung]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regelungen des Ortschaftsrates Grötzingen in der Legislatur 2024-2029]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top3</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top3"/>
+        <updated>2024-09-09T15:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Regelungen des Ortschaftsrates Grötzingen in der Legislatur 2024-2029]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Besetzung von Ausschüssen und Funktionen des Ortschaftsrates]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top4</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top4"/>
+        <updated>2024-09-09T15:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Besetzung von Ausschüssen und Funktionen des Ortschaftsrates]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verfahren des Ortschaftsrates zum Vorschlag der Wahl des Ortsvorstehenden durch den Gemeinderat]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top6</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top6"/>
+        <updated>2024-09-09T15:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Verfahren des Ortschaftsrates zum Vorschlag der Wahl des Ortsvorstehenden durch den Gemeinderat]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schriftzug Herbert-Schweizer-Haus Begegnungsstätte Grötzingen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top7</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top7"/>
+        <updated>2024-09-09T15:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Schriftzug Herbert-Schweizer-Haus Begegnungsstätte Grötzingen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anhörung Planfeststellungsverfahren B293, Ortsumgehung Berghausen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top8</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top8"/>
+        <updated>2024-09-09T15:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Anhörung Planfeststellungsverfahren B293, Ortsumgehung Berghausen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ergänzte Stellungnahme zum Änderungsantrag der CDU vom 15.07.2024 zur Anpassung der Nutzungsentgelte Herbert-Schweizer-Haus Begegnungsstätte Grötzingen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top9</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top9"/>
+        <updated>2024-09-09T15:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Ergänzte Stellungnahme zum Änderungsantrag der CDU vom 15.07.2024 zur Anpassung der Nutzungsentgelte Herbert-Schweizer-Haus Begegnungsstätte Grötzingen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nutzungsänderung der Lagerhalle in offene Abstellhalle]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top11.1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top11.1"/>
+        <updated>2024-09-09T15:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Nutzungsänderung der Lagerhalle in offene Abstellhalle]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bruchwaldstr. 70 - Aufstellen eines Containers zur Ausgabe von Getränken]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top11.2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top11.2"/>
+        <updated>2024-09-09T15:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Bruchwaldstr. 70 - Aufstellen eines Containers zur Ausgabe von Getränken]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Im Sonnental 15 Errichtung eines Anbaus]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top11.3</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top11.3"/>
+        <updated>2024-09-09T15:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Im Sonnental 15 Errichtung eines Anbaus]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verlegung des Wahllokals 020-21 in das Herbert-Schweizer-Haus Begegnungsstätte Grötzingen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top12.1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top12.1"/>
+        <updated>2024-09-09T15:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Verlegung des Wahllokals 020-21 in das Herbert-Schweizer-Haus Begegnungsstätte Grötzingen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bedarfsprognose Kita-Plätze in Grötzingen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top12.2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9914#top12.2"/>
+        <updated>2024-09-09T15:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Bedarfsprognose Kita-Plätze in Grötzingen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sticky Headers And Full-Height Elements: A Tricky Combination]]></title>
+        <id>https://css-tricks.com/?p=380517</id>
+        <link href="https://css-tricks.com/sticky-headers-and-full-height-elements-a-tricky-combination/"/>
+        <updated>2024-09-09T14:09:12.000Z</updated>
+        <summary type="html"><![CDATA[Quite a fun article I worked on with Philip Braunen. Do you know that little bit of elasticity you get when scrolling beyond the viewport when browsing the web on a mobile device? iPhone calls it a “rubber-banding” effect. …
+Sticky Headers And Full-Height Elements: A Tricky Combination originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #17]]></title>
+        <id>https://css-tricks.com/?p=380584</id>
+        <link href="https://css-tricks.com/quick-hit-17/"/>
+        <updated>2024-09-09T13:53:42.000Z</updated>
+        <summary type="html"><![CDATA[“Wrapping the <labelaround the <inputis fine, and is sufficient for conformance on its own, however adding explicit association with for and id is still necessary in practice.” —James Edwards…
+Quick Hit #17 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create A Weekly Google Analytics Report That Posts To Slack]]></title>
+        <id>https://smashingmagazine.com/2024/09/how-create-weekly-google-analytics-report-posts-slack/</id>
+        <link href="https://smashingmagazine.com/2024/09/how-create-weekly-google-analytics-report-posts-slack/"/>
+        <updated>2024-09-06T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google Analytics is often on a “need to know” basis, but why not flip the script? Paul Scanlon shares how he wrote a GitHub Action that queries Google Analytics to automatically generate and post a top ten page views report to Slack, making it incredibly easy to track page performance and share insights with your team.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #16]]></title>
+        <id>https://css-tricks.com/?p=380340</id>
+        <link href="https://css-tricks.com/quick-hit-16/"/>
+        <updated>2024-09-05T16:04:28.000Z</updated>
+        <summary type="html"><![CDATA[“Never, ever hire for JavaScript framework skills. Instead, interview and hire only for fundamentals like web standards, accessibility, modern CSS, semantic HTML, and Web Components.” — Alex Russell…
+Quick Hit #16 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #15]]></title>
+        <id>https://css-tricks.com/?p=380298</id>
+        <link href="https://css-tricks.com/quick-hit-15/"/>
+        <updated>2024-09-05T16:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Almost missed that the WP Twenty Twenty-Five theme was approved a couple weeks ago.…
+Quick Hit #15 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sticky Headers And Full-Height Elements: A Tricky Combination]]></title>
+        <id>https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/</id>
+        <link href="https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/"/>
+        <updated>2024-09-05T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sticky positioning is one of those CSS features that’s pretty delicate and can be negated by a lot of things, so here’s another one to add to your mental catalog: Sticky elements don’t play nicely if they have to coordinate with other elements to make up a combined height, like `100vh`. Philip Braunen explores why this happens and presents a solution to fix it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Philip Braunen)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #14]]></title>
+        <id>https://css-tricks.com/?p=380296</id>
+        <link href="https://css-tricks.com/quick-hit-14/"/>
+        <updated>2024-09-03T19:08:42.000Z</updated>
+        <summary type="html"><![CDATA[Inclusive Design 24 is in 8 short days — and it’s FREE, no sign-up required!…
+Quick Hit #14 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another Stab at Truncated Text]]></title>
+        <id>https://css-tricks.com/?p=380214</id>
+        <link href="https://css-tricks.com/another-stab-at-truncated-text/"/>
+        <updated>2024-09-03T15:57:29.000Z</updated>
+        <summary type="html"><![CDATA[Seems like we’re always talking about clipping text around here. All it takes is a little browsing to spot a bunch of things we’ve already explored.
+    
+        Article
+
+    on
+    Sep 19, 2012  
+    
+
+      accessibility content truncation    
+    
+
+    
+…
+Another Stab at Truncated Text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Big Difference Between Digital Product And Web Design]]></title>
+        <id>https://smashingmagazine.com/2024/09/big-difference-between-digital-product-and-web-design/</id>
+        <link href="https://smashingmagazine.com/2024/09/big-difference-between-digital-product-and-web-design/"/>
+        <updated>2024-09-03T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Designing for digital products requires a different mindset than traditional websites. It’s all about continuous adaptation, refining, and iterating as user behavior and needs evolve. Paul Boag reflects on the key differences, including how the frequency of usage impacts your design approach and what you can do about it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bioabfallvergärungsanlage "Eiswiese" in Ettlingen - Sachstandsbericht]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9550#top4</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9550#top4"/>
+        <updated>2024-09-02T14:58:04.000Z</updated>
+        <summary type="html"><![CDATA[Bioabfallvergärungsanlage "Eiswiese" in Ettlingen - Sachstandsbericht]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goodbye Summer, Hello September (2024 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2024/08/desktop-wallpaper-calendars-september-2024/</id>
+        <link href="https://smashingmagazine.com/2024/08/desktop-wallpaper-calendars-september-2024/"/>
+        <updated>2024-08-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s get ready for September with a fresh collection of desktop wallpapers! Created with love by the community for the community, they come in versions with and without a calendar. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSSWG Minutes Telecon (2024-08-21)]]></title>
+        <id>https://css-tricks.com/?p=380227</id>
+        <link href="https://css-tricks.com/csswg-minutes-telecon-2024-08-21/"/>
+        <updated>2024-08-30T19:06:07.000Z</updated>
+        <summary type="html"><![CDATA[View Transitions are one of the most awesome features CSS has shipped in recent times. Its title is self-explanatory: transitions between views are possible with just CSS, even across pages of the same origin! What’s more interesting is its …
+CSSWG Minutes Telecon (2024-08-21) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paragraphs]]></title>
+        <id>https://css-tricks.com/?p=380206</id>
+        <link href="https://css-tricks.com/paragraphs/"/>
+        <updated>2024-08-30T14:23:52.000Z</updated>
+        <summary type="html"><![CDATA[I sure do love little reminders about HTML semantics, particularly semantics that are tougher to commit to memory. Scott has a great one, beginning with this markup:
+<pI am a paragraph.</p<spanI am also a paragraph.</span<div
+…
+Paragraphs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vhs Karlsruhe – Verlängerung der Laufzeit des Kontokorrentkredits aus dem Jahr 2020 in Höhe von 750.000 Euro bis 31. August 2025]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top5</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top5"/>
+        <updated>2024-08-30T11:28:23.000Z</updated>
+        <summary type="html"><![CDATA[vhs Karlsruhe – Verlängerung der Laufzeit des Kontokorrentkredits aus dem Jahr 2020 in Höhe von 750.000 Euro bis 31. August 2025]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating Image-To-Text And Text-To-Speech Models (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2024/08/integrating-image-to-text-and-text-to-speech-models-part2/</id>
+        <link href="https://smashingmagazine.com/2024/08/integrating-image-to-text-and-text-to-speech-models-part2/"/>
+        <updated>2024-08-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the second part of this series, Joas Pambou aims to build a more advanced version of the previous application that performs conversational analyses on images or videos, much like a chatbot assistant. This means you can ask and learn more about your input content.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joas Pambou)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shipping Tumblr and WordPress]]></title>
+        <id>https://css-tricks.com/?p=380195</id>
+        <link href="https://css-tricks.com/shipping-tumblr-and-wordpress/"/>
+        <updated>2024-08-29T15:05:58.000Z</updated>
+        <summary type="html"><![CDATA[Didya see that Tumblr is getting a WordPress makeover? And it’s not a trivial move:
+This won’t be easy. Tumblr hosts over half a billion blogs. We’re talking about one of the largest technical migrations in internet history. Some 
+…
+Shipping Tumblr and WordPress originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The “Other” C in CSS]]></title>
+        <id>https://css-tricks.com/?p=380061</id>
+        <link href="https://css-tricks.com/the-other-c-in-css/"/>
+        <updated>2024-08-28T14:09:42.000Z</updated>
+        <summary type="html"><![CDATA[I think it’s worth listening to anything Sara Soueidan has to say. That’s especially true if she’s speaking at an event for the first time in four years, which was the case when she took the stage at CSS Day …
+The “Other” C in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glasfaserausbau in Karlsruhe visualisieren]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9585#top1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9585#top1"/>
+        <updated>2024-08-28T11:42:15.000Z</updated>
+        <summary type="html"><![CDATA[Glasfaserausbau in Karlsruhe visualisieren]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benennung von Urkundspersonen für die Unterzeichnung der Sitzungsprotokolle des Ortschaftsrates Stupferich]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top10</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top10"/>
+        <updated>2024-08-28T10:50:07.000Z</updated>
+        <summary type="html"><![CDATA[Benennung von Urkundspersonen für die Unterzeichnung der Sitzungsprotokolle des Ortschaftsrates Stupferich]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benennung von drei Pflegern für die Betreuung des Stadtteilfriedhofes Stupferich]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top9</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top9"/>
+        <updated>2024-08-28T10:49:55.000Z</updated>
+        <summary type="html"><![CDATA[Benennung von drei Pflegern für die Betreuung des Stadtteilfriedhofes Stupferich]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bildung eines beschließenden Ausschusses für das Bauwesen „Ortsbaukommission“]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top8</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top8"/>
+        <updated>2024-08-28T10:49:42.000Z</updated>
+        <summary type="html"><![CDATA[Bildung eines beschließenden Ausschusses für das Bauwesen „Ortsbaukommission“]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wahl eines Ortschaftsrates/einer Ortschaftsrätin und dessen Stellvertreter/deren Stellvertreterin als Mitglied in den Umlegungsausschuss für die Belange des Stadtteils Stupferich]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top7</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top7"/>
+        <updated>2024-08-28T10:49:24.000Z</updated>
+        <summary type="html"><![CDATA[Wahl eines Ortschaftsrates/einer Ortschaftsrätin und dessen Stellvertreter/deren Stellvertreterin als Mitglied in den Umlegungsausschuss für die Belange des Stadtteils Stupferich]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wahl eines Ortschaftsrates/einer Ortschaftsrätin und dessen Stellvertreters/deren Stellvertreterin als Mitglied in den Gutachterausschuss für die Belange des Stadtteils Stupferich]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top6</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top6"/>
+        <updated>2024-08-28T10:49:07.000Z</updated>
+        <summary type="html"><![CDATA[Wahl eines Ortschaftsrates/einer Ortschaftsrätin und dessen Stellvertreters/deren Stellvertreterin als Mitglied in den Gutachterausschuss für die Belange des Stadtteils Stupferich]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vorschlag des Ortschaftsrates zur Wahl von Mitgliedern und]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top5</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top5"/>
+        <updated>2024-08-28T10:48:51.000Z</updated>
+        <summary type="html"><![CDATA[Vorschlag des Ortschaftsrates zur Wahl von Mitgliedern und]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vorschlag des Ortschaftsrates zur Wahl von Mitgliedern und]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top4</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top4"/>
+        <updated>2024-08-28T10:48:21.000Z</updated>
+        <summary type="html"><![CDATA[Vorschlag des Ortschaftsrates zur Wahl von Mitgliedern und]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vorschlag des Ortschaftsrates zur Wahl von Stellvertretern/Stellvertreterinnen des Ortsvorstehers/der Ortsvorsteherin durch den Gemeinderat]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top3</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top3"/>
+        <updated>2024-08-28T10:46:03.000Z</updated>
+        <summary type="html"><![CDATA[Vorschlag des Ortschaftsrates zur Wahl von Stellvertretern/Stellvertreterinnen des Ortsvorstehers/der Ortsvorsteherin durch den Gemeinderat]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vorschlag des Ortschaftsrates zur Wahl des Ortsvorstehers/der Ortsvorsteherin durch den Gemeinderat]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top2"/>
+        <updated>2024-08-28T10:45:26.000Z</updated>
+        <summary type="html"><![CDATA[Vorschlag des Ortschaftsrates zur Wahl des Ortsvorstehers/der Ortsvorsteherin durch den Gemeinderat]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verpflichtung der Mitglieder des neuen Ortschaftsrates]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top1"/>
+        <updated>2024-08-28T10:45:10.000Z</updated>
+        <summary type="html"><![CDATA[Verpflichtung der Mitglieder des neuen Ortschaftsrates]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verabschiedung der ausgeschiedenen Mitglieder]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9997#top2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9997#top2"/>
+        <updated>2024-08-28T10:37:41.000Z</updated>
+        <summary type="html"><![CDATA[Verabschiedung der ausgeschiedenen Mitglieder]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Förmliche Feststellung des Nichtvorliegens von Hinderungsgründen bei den gewählten Mitgliedern des neuen Ortschaftsrates; hier: Beschlussfassung]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9997#top1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9997#top1"/>
+        <updated>2024-08-28T10:37:26.000Z</updated>
+        <summary type="html"><![CDATA[Förmliche Feststellung des Nichtvorliegens von Hinderungsgründen bei den gewählten Mitgliedern des neuen Ortschaftsrates; hier: Beschlussfassung]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generating Unique Random Numbers In JavaScript Using Sets]]></title>
+        <id>https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/</id>
+        <link href="https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/"/>
+        <updated>2024-08-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Want to create more randomized effects in your JavaScript code? The `Math.random()` method alone, with its limitations, won’t cut it for generating unique random numbers. Amejimaobari Ollornwi explains how to generate a series of unique random numbers using the `Set` object, how to use these random numbers as indexes for arrays, and explores some practical applications of randomization.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Amejimaobari Ollornwi)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Straßenbeleuchtung zum Festplatz (Ponderosa)]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9807#top3</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9807#top3"/>
+        <updated>2024-08-22T16:19:43.000Z</updated>
+        <summary type="html"><![CDATA[Straßenbeleuchtung zum Festplatz (Ponderosa)]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bekanntgaben]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9818#top8</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9818#top8"/>
+        <updated>2024-08-22T14:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Bekanntgaben]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anfragen aus dem Ortschaftsrat]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9818#top9</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9818#top9"/>
+        <updated>2024-08-22T14:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Anfragen aus dem Ortschaftsrat]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feststellung des Nichtvorliegens von Hinderungsgründen für den Eintritt der neu gewählten Ortschaftsratsmitglieder in den Ortschaftsrat]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9818#top1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9818#top1"/>
+        <updated>2024-08-22T14:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Feststellung des Nichtvorliegens von Hinderungsgründen für den Eintritt der neu gewählten Ortschaftsratsmitglieder in den Ortschaftsrat]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verabschiedung der aus dem Ortschaftsrat ausscheidenden Ortschaftsrätinnen und Ortschaftsräte]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9818#top2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9818#top2"/>
+        <updated>2024-08-22T14:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Verabschiedung der aus dem Ortschaftsrat ausscheidenden Ortschaftsrätinnen und Ortschaftsräte]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verpflichtung der neu- und wiedergewählten Ortschaftsrätinnen und Ortschafsträte]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9818#top3</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9818#top3"/>
+        <updated>2024-08-22T14:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Verpflichtung der neu- und wiedergewählten Ortschaftsrätinnen und Ortschafsträte]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vorschläge für die Wahl der Stellvertreter*innen der Ortsvorsteherin / des Ortsvorstehers]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9818#top4</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9818#top4"/>
+        <updated>2024-08-22T14:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Vorschläge für die Wahl der Stellvertreter*innen der Ortsvorsteherin / des Ortsvorstehers]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kenntnisnahme über die Bildung von Fraktionen und Benennung der Fraktionsvorsitzenden und Stellvertreter*innen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9818#top5</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9818#top5"/>
+        <updated>2024-08-22T14:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Kenntnisnahme über die Bildung von Fraktionen und Benennung der Fraktionsvorsitzenden und Stellvertreter*innen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bildung der Ausschüsse des Ortschaftsrates]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9818#top6</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9818#top6"/>
+        <updated>2024-08-22T14:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Bildung der Ausschüsse des Ortschaftsrates]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Besetzung der Ausschüsse des Ortschaftsrates und sonstiger Gremien]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9818#top7</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9818#top7"/>
+        <updated>2024-08-22T14:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Besetzung der Ausschüsse des Ortschaftsrates und sonstiger Gremien]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Typography In Logo Design]]></title>
+        <id>https://smashingmagazine.com/2024/08/mastering-typography-in-logo-design/</id>
+        <link href="https://smashingmagazine.com/2024/08/mastering-typography-in-logo-design/"/>
+        <updated>2024-08-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Finding the right typeface for a logo is a challenge and can be a very time-consuming process that requires both creativity and a practical approach. Levi Honing provides the essential background and tools to enhance your typography journey and apply this knowledge to your logo design. Let’s dive deep to learn how to create a logo that is not only expressive but also purposeful and well-thought-out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Levi Honing)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regexes Got Good: The History And Future Of Regular Expressions In JavaScript]]></title>
+        <id>https://smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/</id>
+        <link href="https://smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/"/>
+        <updated>2024-08-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Although JavaScript regexes used to be underpowered compared to other modern flavors, numerous improvements in recent years mean that’s no longer true. Steven Levithan evaluates the history and present state of regular expressions in JavaScript with tips to make your regexes more readable, maintainable, and resilient.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Steven Levithan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rahmenvereinbarungen über die kostenstellenbezogene Lieferung von Tintenpatronen und Toner für die Stadt Karlsruhe]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top1"/>
+        <updated>2024-08-20T09:29:49.000Z</updated>
+        <summary type="html"><![CDATA[Rahmenvereinbarungen über die kostenstellenbezogene Lieferung von Tintenpatronen und Toner für die Stadt Karlsruhe]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Annahme des Angebots von Zuwendungen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top2"/>
+        <updated>2024-08-20T09:29:49.000Z</updated>
+        <summary type="html"><![CDATA[Annahme des Angebots von Zuwendungen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neues Vergabeverfahren zur Erweiterung des Vollservices bei der Wertstoffsammlung]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top3</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top3"/>
+        <updated>2024-08-20T09:29:49.000Z</updated>
+        <summary type="html"><![CDATA[Neues Vergabeverfahren zur Erweiterung des Vollservices bei der Wertstoffsammlung]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Konzeptionierung von Betriebswohnungen für Fachkräfte in der frühkindlichen Bildung]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top4</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top4"/>
+        <updated>2024-08-20T09:29:49.000Z</updated>
+        <summary type="html"><![CDATA[Konzeptionierung von Betriebswohnungen für Fachkräfte in der frühkindlichen Bildung]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geförderte Wohnungen gegen Fachkräftemangel]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top4.1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top4.1"/>
+        <updated>2024-08-20T09:29:49.000Z</updated>
+        <summary type="html"><![CDATA[Geförderte Wohnungen gegen Fachkräftemangel]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pricing Projects As A Freelancer Or Agency Owner]]></title>
+        <id>https://smashingmagazine.com/2024/08/pricing-projects-freelancer-agency-owner/</id>
+        <link href="https://smashingmagazine.com/2024/08/pricing-projects-freelancer-agency-owner/"/>
+        <updated>2024-08-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover effective pricing strategies for digital projects. Learn how to balance fixed pricing, time and materials, and value-based approaches while managing client expectations and scope creep.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beratung über Anfragen bezüglich fester und mobiler Verkaufsstände im Bereich des Turmbergs]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9776#top5</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9776#top5"/>
+        <updated>2024-08-16T11:45:35.000Z</updated>
+        <summary type="html"><![CDATA[Beratung über Anfragen bezüglich fester und mobiler Verkaufsstände im Bereich des Turmbergs]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Defend Your Design Process]]></title>
+        <id>https://smashingmagazine.com/2024/08/how-defend-your-design-process/</id>
+        <link href="https://smashingmagazine.com/2024/08/how-defend-your-design-process/"/>
+        <updated>2024-08-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ever felt pressure to speed up your design process? Here’s how to address unrealistic expectations and foster a shared understanding with stakeholders, ensuring everyone is aligned on the path to a successful delivery. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brunnenstückweg]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9550#top1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9550#top1"/>
+        <updated>2024-08-14T10:19:31.000Z</updated>
+        <summary type="html"><![CDATA[Brunnenstückweg]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+</feed>
