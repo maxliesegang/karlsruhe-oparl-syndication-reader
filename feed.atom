@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-12T11:31:39.301Z</updated>
+    <updated>2024-09-13T03:22:44.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html"/>
     <link rel="self" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wahl der Ortsvorsteherin bzw. des Ortsvorstehers in Neureut]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top8.1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top8.1"/>
+        <updated>2024-09-12T10:36:51.000Z</updated>
+        <summary type="html"><![CDATA[Wahl der Ortsvorsteherin bzw. des Ortsvorstehers in Neureut]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zusammensetzung des Gemeinderates: Feststellung des Nichtvorliegens von Hinderungsgründen des auf den verstorbenen Stadtrat Marco Gottmann nachfolgenden Herrn Dr. Gerhard Lenz]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top2"/>
+        <updated>2024-09-12T09:44:50.000Z</updated>
+        <summary type="html"><![CDATA[Zusammensetzung des Gemeinderates: Feststellung des Nichtvorliegens von Hinderungsgründen des auf den verstorbenen Stadtrat Marco Gottmann nachfolgenden Herrn Dr. Gerhard Lenz]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Verschiedenes]]></title>
         <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9819#top2</id>
@@ -22,6 +42,36 @@
         <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9819#top1"/>
         <updated>2024-09-11T15:33:30.000Z</updated>
         <summary type="html"><![CDATA[Vorschlag des Ortschaftsrates zur Wahl der Ortsvorsteherin bzw. des Ortsvorstehers durch den Gemeinderat der Stadt Karlsruhe]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wahl der Stellvertretung der Ortsvorsteherin bzw. des Ortsvorstehers in Neureut]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top8.2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top8.2"/>
+        <updated>2024-09-11T15:26:32.000Z</updated>
+        <summary type="html"><![CDATA[Wahl der Stellvertretung der Ortsvorsteherin bzw. des Ortsvorstehers in Neureut]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attraktivität der Stellen der Ausländerbehörde: Lösungsansätze für Personalgewinnung und Personalbindung]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top25.1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top25.1"/>
+        <updated>2024-09-11T07:04:54.000Z</updated>
+        <summary type="html"><![CDATA[Attraktivität der Stellen der Ausländerbehörde: Lösungsansätze für Personalgewinnung und Personalbindung]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Stiftungsrats für die Karl Friedrich-, Leopold- und Sophienstiftung]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.3</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.3"/>
+        <updated>2024-09-10T11:53:33.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Stiftungsrats für die Karl Friedrich-, Leopold- und Sophienstiftung]]></summary>
         <author>
             <name>Alle Tagesordnungspunkte</name>
         </author>
@@ -197,6 +247,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder von Aufsichts-, Verwaltungs- und Stiftungsräten, von Beiräten und Kommissionen sowie sonstige Gremien]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3"/>
+        <updated>2024-09-06T11:42:54.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder von Aufsichts-, Verwaltungs- und Stiftungsräten, von Beiräten und Kommissionen sowie sonstige Gremien]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bioabfallvergärungsanlage "Eiswiese" in Ettlingen - Sachstandsbericht]]></title>
         <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9550#top4</id>
         <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9550#top4"/>
@@ -212,6 +272,26 @@
         <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top5"/>
         <updated>2024-08-30T11:28:23.000Z</updated>
         <summary type="html"><![CDATA[vhs Karlsruhe – Verlängerung der Laufzeit des Kontokorrentkredits aus dem Jahr 2020 in Höhe von 750.000 Euro bis 31. August 2025]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wahl der Ortsvorsteherin bzw. des Ortsvorstehers und der Stellvertretung in Neureut]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top8</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top8"/>
+        <updated>2024-08-30T09:09:38.000Z</updated>
+        <summary type="html"><![CDATA[Wahl der Ortsvorsteherin bzw. des Ortsvorstehers und der Stellvertretung in Neureut]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berufung sachkundiger Einwohnerinnen und Einwohner sowie Sachverständiger in gemeinderätliche Ausschüsse und Gremien: Jugendhilfeausschuss]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.1"/>
+        <updated>2024-08-28T15:10:18.000Z</updated>
+        <summary type="html"><![CDATA[Berufung sachkundiger Einwohnerinnen und Einwohner sowie Sachverständiger in gemeinderätliche Ausschüsse und Gremien: Jugendhilfeausschuss]]></summary>
         <author>
             <name>Alle Tagesordnungspunkte</name>
         </author>
@@ -347,6 +427,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Verkauf des städtischen Grundstücks Nr. 19924/4 mit 4.275 m², Schwarzwaldstraße 81, 81 a, Gebäude- und Freifläche, Stadtteil Südweststadt: Änderung der Zusammensetzung der Käufergesellschaft]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top19</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top19"/>
+        <updated>2024-08-23T09:54:23.000Z</updated>
+        <summary type="html"><![CDATA[Verkauf des städtischen Grundstücks Nr. 19924/4 mit 4.275 m², Schwarzwaldstraße 81, 81 a, Gebäude- und Freifläche, Stadtteil Südweststadt: Änderung der Zusammensetzung der Käufergesellschaft]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Straßenbeleuchtung zum Festplatz (Ponderosa)]]></title>
         <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9807#top3</id>
         <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9807#top3"/>
@@ -447,6 +537,946 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wahl der Pflegerinnen und Pfleger für öffentliche Einrichtungen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top4</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top4"/>
+        <updated>2024-08-22T10:37:24.000Z</updated>
+        <summary type="html"><![CDATA[Wahl der Pflegerinnen und Pfleger für öffentliche Einrichtungen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berufung sachkundiger Einwohnerinnen und Einwohner sowie Sachverständiger in gemeinderätliche Ausschüsse und Gremien:]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10"/>
+        <updated>2024-08-22T08:46:53.000Z</updated>
+        <summary type="html"><![CDATA[Berufung sachkundiger Einwohnerinnen und Einwohner sowie Sachverständiger in gemeinderätliche Ausschüsse und Gremien:]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verpflichtung des Stadtrats Friedemann Kalmbach]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top1"/>
+        <updated>2024-08-22T08:17:59.000Z</updated>
+        <summary type="html"><![CDATA[Verpflichtung des Stadtrats Friedemann Kalmbach]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beteiligung der Stadt Karlsruhe an rechtlich selbständigen wirtschaftlichen Unternehmen, Eigenbetrieben und Stiftungen; Beteiligungsbericht für das Geschäftsjahr 2023]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top18</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top18"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Beteiligung der Stadt Karlsruhe an rechtlich selbständigen wirtschaftlichen Unternehmen, Eigenbetrieben und Stiftungen; Beteiligungsbericht für das Geschäftsjahr 2023]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bekanntgabe nichtöffentlich gefasster Beschlüsse]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top46</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top46"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Bekanntgabe nichtöffentlich gefasster Beschlüsse]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mitteilungen des Bürgermeisteramtes]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top47</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top47"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Mitteilungen des Bürgermeisteramtes]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neuordnung der Verkehrsführung für Kfz zwischen Schlossplatztunnel und Hans-Thoma-Straße]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top26</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top26"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Neuordnung der Verkehrsführung für Kfz zwischen Schlossplatztunnel und Hans-Thoma-Straße]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stadtentwicklungsstrategie 2035 anpassen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top27</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top27"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Stadtentwicklungsstrategie 2035 anpassen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stationäre Jugendverkehrsschule für die Bergdörfer]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top28</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top28"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Stationäre Jugendverkehrsschule für die Bergdörfer]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verbesserte Sicherheit auf dem Geh- und Radweg am Adenauerring zwischen Fußballstadion und Willy-Brandt-Allee]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top29</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top29"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Verbesserte Sicherheit auf dem Geh- und Radweg am Adenauerring zwischen Fußballstadion und Willy-Brandt-Allee]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimierung der Plakatierungsregularien]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top30</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top30"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Optimierung der Plakatierungsregularien]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wiedereröffnung des Kundenzentrums am Hauptbahnhof an Samstagen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top31</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top31"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Wiedereröffnung des Kundenzentrums am Hauptbahnhof an Samstagen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feierabend-Parken für Karlsruhe]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top32</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top32"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Feierabend-Parken für Karlsruhe]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kneippbecken an Karlsruher Fließgewässern]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top33</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top33"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Kneippbecken an Karlsruher Fließgewässern]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mehr Photovoltaik auf städtische Dächer und Freiflächen bringen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top34</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top34"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Mehr Photovoltaik auf städtische Dächer und Freiflächen bringen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seebühne stärker nutzen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top35</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top35"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Seebühne stärker nutzen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barrierefreie Haltestelle Hauptbahnhof]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top36</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top36"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Barrierefreie Haltestelle Hauptbahnhof]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Einrichtung von WC-Anlagen privater Anbieter in leerstehenden Gebäuden der Karlsruher Innenstadt]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top37</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top37"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Einrichtung von WC-Anlagen privater Anbieter in leerstehenden Gebäuden der Karlsruher Innenstadt]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polderurteil der Stadt Rheinstetten - Einschätzung der Stadt Karlsruhe]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top38</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top38"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Polderurteil der Stadt Rheinstetten - Einschätzung der Stadt Karlsruhe]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aktueller Stand: Umsetzung Chancen-Aufenthaltsrecht]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top39</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top39"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Aktueller Stand: Umsetzung Chancen-Aufenthaltsrecht]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bürgerbeteiligung ISEK 20240: Integriertes Stadtentwicklungskonzept Karlsruhe weiterentwickeln]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top40</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top40"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Bürgerbeteiligung ISEK 20240: Integriertes Stadtentwicklungskonzept Karlsruhe weiterentwickeln]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wie sieht der aktuelle Zeitplan zur Fertigstellung des Bernhardusplatzes aus?]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top41</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top41"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Wie sieht der aktuelle Zeitplan zur Fertigstellung des Bernhardusplatzes aus?]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kinderkriminalität in Karlsruhe]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top42</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top42"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Kinderkriminalität in Karlsruhe]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Status Turmbergbahn]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top43</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top43"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Status Turmbergbahn]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aktueller Stand des Ausbaus mit Glasfaser der Stadtwerke Karlsruhe für Privat- und Geschäftskunden]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top44</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top44"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Aktueller Stand des Ausbaus mit Glasfaser der Stadtwerke Karlsruhe für Privat- und Geschäftskunden]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leerstand im Rathaus-Gebäudekomplex Lammstraße]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top45</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top45"/>
+        <updated>2024-08-22T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Leerstand im Rathaus-Gebäudekomplex Lammstraße]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Verwaltungsrates für das Badische Konservatorium]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.4</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.4"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Verwaltungsrates für das Badische Konservatorium]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zweckverband für die Wasserversorgung des Hügellandes zwischen Alb und Pfinz: Wahl der Vertreterinnen und Vertreter der Stadt Karlsruhe in der Verbandsversammlung]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top5</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top5"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Zweckverband für die Wasserversorgung des Hügellandes zwischen Alb und Pfinz: Wahl der Vertreterinnen und Vertreter der Stadt Karlsruhe in der Verbandsversammlung]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abwasserzweckverband „Mittleres Pfinztal und Boxbachtal“: Wahl der Vertreterinnen und Vertreter der Stadt Karlsruhe in der Verbandsversammlung]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top6</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top6"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Abwasserzweckverband „Mittleres Pfinztal und Boxbachtal“: Wahl der Vertreterinnen und Vertreter der Stadt Karlsruhe in der Verbandsversammlung]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wahl der Ortsvorsteherin bzw. des Ortsvorstehers und der Stellvertretung in Stupferich]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top7</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top7"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Wahl der Ortsvorsteherin bzw. des Ortsvorstehers und der Stellvertretung in Stupferich]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ausschuss für Umwelt und Gesundheit]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.6</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.6"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Ausschuss für Umwelt und Gesundheit]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Satzung zur Änderung der Satzung über Sondernutzungen in den Fußgängerbereichen der Stadt Karlsruhe"]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top11</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top11"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Satzung zur Änderung der Satzung über Sondernutzungen in den Fußgängerbereichen der Stadt Karlsruhe"]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anpassung der Nutzungsentgelte für die durch die OV Grötzingen zur Verfügung gestellten Räumlichkeiten im Herbert-Schweizer-Haus Begegnungsstätte Grötzingen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top13</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top13"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Anpassung der Nutzungsentgelte für die durch die OV Grötzingen zur Verfügung gestellten Räumlichkeiten im Herbert-Schweizer-Haus Begegnungsstätte Grötzingen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verlängerung der Anmietung einer Immobilie zur Unterbringung von vulnerablen Personengruppen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top16</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top16"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Verlängerung der Anmietung einer Immobilie zur Unterbringung von vulnerablen Personengruppen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auftrag für die Durchführung der Jahresabschlussprüfung bei der Stiftung Naturschutzzentrum Karlsruhe-Rappenwört (NAZKA) an das Rechnungsprüfungsamt]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top17</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top17"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Auftrag für die Durchführung der Jahresabschlussprüfung bei der Stiftung Naturschutzzentrum Karlsruhe-Rappenwört (NAZKA) an das Rechnungsprüfungsamt]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weiteres Vorgehen bei der Wertstofferfassung und Entscheidung über Fortgang des Vergabeverfahrens]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top20</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top20"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Weiteres Vorgehen bei der Wertstofferfassung und Entscheidung über Fortgang des Vergabeverfahrens]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geschäftsordnung für den Klimaschutzbeirat]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top21</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top21"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Geschäftsordnung für den Klimaschutzbeirat]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vergabeverfahren TSK24011 - Ersatzbeschaffung von 8 batterieelektrischen LKW für die Abfallsammlung und die Stadtreinigung]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top22</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top22"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Vergabeverfahren TSK24011 - Ersatzbeschaffung von 8 batterieelektrischen LKW für die Abfallsammlung und die Stadtreinigung]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Konzeptbeschluss: Neugestaltung Platz am Ettlinger Tor/Landratsamt]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top23</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top23"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Konzeptbeschluss: Neugestaltung Platz am Ettlinger Tor/Landratsamt]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verschiedene Liegenschaften im Bereich der Stadt Karlsruhe (9 Lose)]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top24</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top24"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Verschiedene Liegenschaften im Bereich der Stadt Karlsruhe (9 Lose)]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Stiftungsrates der Heimstiftung Karlsruhe]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.1"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Stiftungsrates der Heimstiftung Karlsruhe]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Stiftungsrates für das Zentrum für Kunst und Medien Karlsruhe]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.2"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Stiftungsrates für das Zentrum für Kunst und Medien Karlsruhe]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Verwaltungsrates für das Badische Staatstheater]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.5</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.5"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Verwaltungsrates für das Badische Staatstheater]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Beirates der Bundesfachschule für Elektrohandwerke]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.6</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.6"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Beirates der Bundesfachschule für Elektrohandwerke]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Beirates der Bundesfachschule für Sanitär- und Heizungstechnik]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.7</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.7"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Beirates der Bundesfachschule für Sanitär- und Heizungstechnik]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder der Kommission für Informationstechnik und Digitalisierung]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.8</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.8"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder der Kommission für Informationstechnik und Digitalisierung]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Kleingartenbeirates]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.9</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.9"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Kleingartenbeirates]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Kunstbeirats]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.10</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.10"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Kunstbeirats]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Sanierungsbeirates Durlach-Aue]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.11</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.11"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Sanierungsbeirates Durlach-Aue]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Sanierungsbeirates Alt-Knielingen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.12</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.12"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Sanierungsbeirates Alt-Knielingen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Sanierungsbeirates Grünwettersbach]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.13</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.13"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Sanierungsbeirates Grünwettersbach]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Sanierungsbeirates Innenstadt-Ost]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.14</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.14"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Sanierungsbeirates Innenstadt-Ost]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Sanierungsbeirates Kaiserstraße-West]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.15</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.15"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Sanierungsbeirates Kaiserstraße-West]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Sanierungsbeirates Gewerbegebiet Grünwinkel]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.16</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.16"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Sanierungsbeirates Gewerbegebiet Grünwinkel]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Sanierungsbeirates Grötzingen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.17</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.17"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Sanierungsbeirates Grötzingen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Entsendung von Mitgliedern des Gemeinderates in die Mitgliederversammlung der Volkshochschule Karlsruhe e. V.]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.18</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.18"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Entsendung von Mitgliedern des Gemeinderates in die Mitgliederversammlung der Volkshochschule Karlsruhe e. V.]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder für das Forum für Aktive Mobilität]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.19</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.19"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder für das Forum für Aktive Mobilität]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Begleitgremiums Modernisierung Stadthalle]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.20</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.20"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Begleitgremiums Modernisierung Stadthalle]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrats der AVG – Albtal-Verkehrs-Gesellschaft mbH]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.21</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.21"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrats der AVG – Albtal-Verkehrs-Gesellschaft mbH]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der afka Arbeitsförderung Karlsruhe gGmbH]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.22</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.22"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der afka Arbeitsförderung Karlsruhe gGmbH]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der Fächerbad Karlsruhe GmbH]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.23</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.23"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der Fächerbad Karlsruhe GmbH]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der KBG - Karlsruher Bädergesellschaft mbH]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.24</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.24"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der KBG - Karlsruher Bädergesellschaft mbH]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der Karlsruher Fächer GmbH]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.25</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.25"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der Karlsruher Fächer GmbH]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der Karlsruher Fächer GmbH & Co. Stadtentwicklungs-KG]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.26</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.26"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der Karlsruher Fächer GmbH & Co. Stadtentwicklungs-KG]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der Karlsruher Fächer GmbH Co. Flächenentwicklungs-KG]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.27</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.27"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der Karlsruher Fächer GmbH Co. Flächenentwicklungs-KG]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der KASIG – Karlsruher Schieneninfrastruktur-Gesellschaft mbH]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.28</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.28"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der KASIG – Karlsruher Schieneninfrastruktur-Gesellschaft mbH]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der KMK – Karlsruher Messe- und Kongress GmbH]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.29</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.29"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der KMK – Karlsruher Messe- und Kongress GmbH]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der KME  Karlsruhe Marketing und Event GmbH]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.30</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.30"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der KME  Karlsruhe Marketing und Event GmbH]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der KTG Karlsruhe Tourismus GmbH]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.31</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.31"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der KTG Karlsruhe Tourismus GmbH]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der Karlsruher Verkehrsverbund GmbH]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.32</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.32"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der Karlsruher Verkehrsverbund GmbH]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der KVVH – Karlsruher Versorgungs-, Verkehrs- und Hafen GmbH]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.33</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.33"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der KVVH – Karlsruher Versorgungs-, Verkehrs- und Hafen GmbH]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der VBK – Verkehrsbetriebe Karlsruhe GmbH]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.34</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.34"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der VBK – Verkehrsbetriebe Karlsruhe GmbH]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der Stadtwerke Karlsruhe GmbH]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.35</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.35"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der Stadtwerke Karlsruhe GmbH]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der Städtisches Klinikum Karlsruhe gGmbH]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.36</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.36"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der Städtisches Klinikum Karlsruhe gGmbH]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates des MVZ - Medizinisches Versorgungszentrum am Städtischen Klinikum Karlsruhe GmbH]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.37</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.37"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates des MVZ - Medizinisches Versorgungszentrum am Städtischen Klinikum Karlsruhe GmbH]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrats der Karlsruher VersorgungsDienste im Sozial- und Gesundheitswesen GmbH (KVD)]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.38</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.38"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrats der Karlsruher VersorgungsDienste im Sozial- und Gesundheitswesen GmbH (KVD)]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der VOLKSWOHNUNG GmbH und VOLKSWOHNUNG Service GmbH]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.39</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.39"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der VOLKSWOHNUNG GmbH und VOLKSWOHNUNG Service GmbH]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der VOLKSWOHNUNG Bauträger GmbH]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.40</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3.40"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder des Aufsichtsrates der VOLKSWOHNUNG Bauträger GmbH]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Europäischer Verbund für territoriale Zusammenarbeit (EVTZ) „Eurodistrikt PAMINA“: Wahl der Vertreterinnen und Vertreter der Stadt Karlsruhe in der Versammlung]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top9</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top9"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Europäischer Verbund für territoriale Zusammenarbeit (EVTZ) „Eurodistrikt PAMINA“: Wahl der Vertreterinnen und Vertreter der Stadt Karlsruhe in der Versammlung]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sozialausschuss]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.2"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Sozialausschuss]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schulausschuss]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.3</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.3"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Schulausschuss]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sportausschuss]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.4</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.4"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Sportausschuss]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kulturausschuss]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.5</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.5"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Kulturausschuss]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanierungsbeirat ASP Durlach-Aue]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.7</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.7"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Sanierungsbeirat ASP Durlach-Aue]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanierungsbeirat SSP Alt-Knielingen Ortskern]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.8</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.8"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Sanierungsbeirat SSP Alt-Knielingen Ortskern]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanierungsbeirat Gewerbegebiet Grünwinkel]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.9</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.9"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Sanierungsbeirat Gewerbegebiet Grünwinkel]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanierungsbeirat Grötzingen Ortsmitte]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.10</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.10"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Sanierungsbeirat Grötzingen Ortsmitte]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanierungsbeirat Grünwettersbach]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.11</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.11"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Sanierungsbeirat Grünwettersbach]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanierungsbeirat Innenstadt Ost]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.12</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.12"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Sanierungsbeirat Innenstadt Ost]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanierungsbeirat Kaiserstraße West]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.13</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.13"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Sanierungsbeirat Kaiserstraße West]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bebauungsplan "Sporthalle am Traugott-Bender-Weg", Karlsruhe-Hagsfeld; Satzungsbeschluss gemäß § 10 Abs. 1 Baugesetzbuch (BauGB)]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top12</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top12"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Bebauungsplan "Sporthalle am Traugott-Bender-Weg", Karlsruhe-Hagsfeld; Satzungsbeschluss gemäß § 10 Abs. 1 Baugesetzbuch (BauGB)]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beitritt des städtischen K³ Kultur- und Kreativwirtschaftsbüros zum Förderverein Kultur- und Kreativwirtschaft e. V. des bundesweiten Fördernetzwerks Kultur- und Kreativwirtschaft]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top14</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top14"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Beitritt des städtischen K³ Kultur- und Kreativwirtschaftsbüros zum Förderverein Kultur- und Kreativwirtschaft e. V. des bundesweiten Fördernetzwerks Kultur- und Kreativwirtschaft]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elisabeth-Selbert-Schule: Neueinrichtung des Beruflichen Gymnasiums mit dem Profil "Sozial- und Gesundheitswissenschaftliches Gymnasium" zum Schuljahr 2025/26]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top15</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top15"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Elisabeth-Selbert-Schule: Neueinrichtung des Beruflichen Gymnasiums mit dem Profil "Sozial- und Gesundheitswissenschaftliches Gymnasium" zum Schuljahr 2025/26]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attraktivität der Stellen der Ausländerbehörde: Lösungsansätze für Personalgewinnung und Personalbindung]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top25</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top25"/>
+        <updated>2024-08-22T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Attraktivität der Stellen der Ausländerbehörde: Lösungsansätze für Personalgewinnung und Personalbindung]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rahmenvereinbarungen über die kostenstellenbezogene Lieferung von Tintenpatronen und Toner für die Stadt Karlsruhe]]></title>
         <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top1</id>
         <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top1"/>
@@ -502,16 +1532,6 @@
         <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9776#top5"/>
         <updated>2024-08-16T11:45:35.000Z</updated>
         <summary type="html"><![CDATA[Beratung über Anfragen bezüglich fester und mobiler Verkaufsstände im Bereich des Turmbergs]]></summary>
-        <author>
-            <name>Alle Tagesordnungspunkte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brunnenstückweg]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9550#top1</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9550#top1"/>
-        <updated>2024-08-14T10:19:31.000Z</updated>
-        <summary type="html"><![CDATA[Brunnenstückweg]]></summary>
         <author>
             <name>Alle Tagesordnungspunkte</name>
         </author>
