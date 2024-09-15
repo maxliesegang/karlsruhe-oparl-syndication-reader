@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-14T03:22:16.588Z</updated>
+    <updated>2024-09-15T03:26:31.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html"/>
     <link rel="self" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/feed.atom"/>
@@ -1522,16 +1522,6 @@
         <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top4.1"/>
         <updated>2024-08-20T09:29:49.000Z</updated>
         <summary type="html"><![CDATA[Geförderte Wohnungen gegen Fachkräftemangel]]></summary>
-        <author>
-            <name>Alle Tagesordnungspunkte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beratung über Anfragen bezüglich fester und mobiler Verkaufsstände im Bereich des Turmbergs]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9776#top5</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9776#top5"/>
-        <updated>2024-08-16T11:45:35.000Z</updated>
-        <summary type="html"><![CDATA[Beratung über Anfragen bezüglich fester und mobiler Verkaufsstände im Bereich des Turmbergs]]></summary>
         <author>
             <name>Alle Tagesordnungspunkte</name>
         </author>
