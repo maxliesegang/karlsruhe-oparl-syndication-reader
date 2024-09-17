@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-16T03:28:26.166Z</updated>
+    <updated>2024-09-17T03:23:51.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html"/>
     <link rel="self" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Antrag der LG Region Karlsruhe: Förderung der Langen Laufnacht 2025]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top15.1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top15.1"/>
+        <updated>2024-09-16T11:02:52.000Z</updated>
+        <summary type="html"><![CDATA[Antrag der LG Region Karlsruhe: Förderung der Langen Laufnacht 2025]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mitteilungen der Ortsverwaltung]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9830#top4</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9830#top4"/>
+        <updated>2024-09-12T13:59:35.000Z</updated>
+        <summary type="html"><![CDATA[Mitteilungen der Ortsverwaltung]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anregungen aus dem Ortschaftsrat]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9830#top3</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9830#top3"/>
+        <updated>2024-09-12T13:59:07.000Z</updated>
+        <summary type="html"><![CDATA[Anregungen aus dem Ortschaftsrat]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vorschlag des Ortschaftsrates zur Wahl der Stellvertretung des Ortsvorstehers beziehungsweise der Ortsvorsteherin durch den Gemeinderat der Stadt Karlsruhe]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9830#top1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9830#top1"/>
+        <updated>2024-09-12T13:57:47.000Z</updated>
+        <summary type="html"><![CDATA[Vorschlag des Ortschaftsrates zur Wahl der Stellvertretung des Ortsvorstehers beziehungsweise der Ortsvorsteherin durch den Gemeinderat der Stadt Karlsruhe]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Festlegung der Mindestzahl der Mitglieder für die Bildung einer Ortschaftsratsfraktion und Benennung der Fraktionsvorsitzenden und ihrer Stellvertretungen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9830#top2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9830#top2"/>
+        <updated>2024-09-12T13:57:47.000Z</updated>
+        <summary type="html"><![CDATA[Festlegung der Mindestzahl der Mitglieder für die Bildung einer Ortschaftsratsfraktion und Benennung der Fraktionsvorsitzenden und ihrer Stellvertretungen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wahl der Ortsvorsteherin bzw. des Ortsvorstehers in Neureut]]></title>
         <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top8.1</id>

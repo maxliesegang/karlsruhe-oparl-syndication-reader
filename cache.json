@@ -6,6 +6,56 @@
       "siteUrl": "http://localhost:8080/",
       "articles": [
         {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top15.1",
+          "author": null,
+          "description": "Antrag der LG Region Karlsruhe: Förderung der Langen Laufnacht 2025",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top15.1",
+          "publishedOn": "2024-09-16T11:02:52.000Z",
+          "wordCount": null,
+          "title": "Antrag der LG Region Karlsruhe: Förderung der Langen Laufnacht 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9830#top4",
+          "author": null,
+          "description": "Mitteilungen der Ortsverwaltung",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9830#top4",
+          "publishedOn": "2024-09-12T13:59:35.000Z",
+          "wordCount": 394,
+          "title": "Mitteilungen der Ortsverwaltung",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9830#top3",
+          "author": null,
+          "description": "Anregungen aus dem Ortschaftsrat",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9830#top3",
+          "publishedOn": "2024-09-12T13:59:07.000Z",
+          "wordCount": 394,
+          "title": "Anregungen aus dem Ortschaftsrat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9830#top1",
+          "author": null,
+          "description": "Vorschlag des Ortschaftsrates zur Wahl der Stellvertretung des Ortsvorstehers beziehungsweise der Ortsvorsteherin durch den Gemeinderat der Stadt Karlsruhe",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9830#top1",
+          "publishedOn": "2024-09-12T13:57:47.000Z",
+          "wordCount": 394,
+          "title": "Vorschlag des Ortschaftsrates zur Wahl der Stellvertretung des Ortsvorstehers beziehungsweise der Ortsvorsteherin durch den Gemeinderat der Stadt Karlsruhe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9830#top2",
+          "author": null,
+          "description": "Festlegung der Mindestzahl der Mitglieder für die Bildung einer Ortschaftsratsfraktion und Benennung der Fraktionsvorsitzenden und ihrer Stellvertretungen",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9830#top2",
+          "publishedOn": "2024-09-12T13:57:47.000Z",
+          "wordCount": 394,
+          "title": "Festlegung der Mindestzahl der Mitglieder für die Bildung einer Ortschaftsratsfraktion und Benennung der Fraktionsvorsitzenden und ihrer Stellvertretungen",
+          "imageUrl": null
+        },
+        {
           "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top8.1",
           "author": null,
           "description": "Wahl der Ortsvorsteherin bzw. des Ortsvorstehers in Neureut",
