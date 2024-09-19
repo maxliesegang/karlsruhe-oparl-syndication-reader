@@ -6,6 +6,16 @@
       "siteUrl": "http://localhost:8080/",
       "articles": [
         {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top20.1",
+          "author": null,
+          "description": "Neues Vergabeverfahren zur Erweiterung des Vollservices bei der Wertstoffsammlung",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top20.1",
+          "publishedOn": "2024-09-18T12:00:32.000Z",
+          "wordCount": null,
+          "title": "Neues Vergabeverfahren zur Erweiterung des Vollservices bei der Wertstoffsammlung",
+          "imageUrl": null
+        },
+        {
           "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top15.1",
           "author": null,
           "description": "Antrag der LG Region Karlsruhe: Förderung der Langen Laufnacht 2025",
@@ -1523,56 +1533,6 @@
           "publishedOn": "2024-08-22T08:16:01.000Z",
           "wordCount": 2464,
           "title": "Attraktivität der Stellen der Ausländerbehörde: Lösungsansätze für Personalgewinnung und Personalbindung",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top1",
-          "author": null,
-          "description": "Rahmenvereinbarungen über die kostenstellenbezogene Lieferung von Tintenpatronen und Toner für die Stadt Karlsruhe",
-          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top1",
-          "publishedOn": "2024-08-20T09:29:49.000Z",
-          "wordCount": 501,
-          "title": "Rahmenvereinbarungen über die kostenstellenbezogene Lieferung von Tintenpatronen und Toner für die Stadt Karlsruhe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top2",
-          "author": null,
-          "description": "Annahme des Angebots von Zuwendungen",
-          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top2",
-          "publishedOn": "2024-08-20T09:29:49.000Z",
-          "wordCount": 501,
-          "title": "Annahme des Angebots von Zuwendungen",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top3",
-          "author": null,
-          "description": "Neues Vergabeverfahren zur Erweiterung des Vollservices bei der Wertstoffsammlung",
-          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top3",
-          "publishedOn": "2024-08-20T09:29:49.000Z",
-          "wordCount": 501,
-          "title": "Neues Vergabeverfahren zur Erweiterung des Vollservices bei der Wertstoffsammlung",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top4",
-          "author": null,
-          "description": "Konzeptionierung von Betriebswohnungen für Fachkräfte in der frühkindlichen Bildung",
-          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top4",
-          "publishedOn": "2024-08-20T09:29:49.000Z",
-          "wordCount": 501,
-          "title": "Konzeptionierung von Betriebswohnungen für Fachkräfte in der frühkindlichen Bildung",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top4.1",
-          "author": null,
-          "description": "Geförderte Wohnungen gegen Fachkräftemangel",
-          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top4.1",
-          "publishedOn": "2024-08-20T09:29:49.000Z",
-          "wordCount": 501,
-          "title": "Geförderte Wohnungen gegen Fachkräftemangel",
           "imageUrl": null
         }
       ]
