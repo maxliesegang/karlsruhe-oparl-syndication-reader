@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-21T03:22:19.114Z</updated>
+    <updated>2024-09-22T03:27:08.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html"/>
     <link rel="self" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/feed.atom"/>
@@ -482,26 +482,6 @@
         <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9997#top1"/>
         <updated>2024-08-28T10:37:26.000Z</updated>
         <summary type="html"><![CDATA[Förmliche Feststellung des Nichtvorliegens von Hinderungsgründen bei den gewählten Mitgliedern des neuen Ortschaftsrates; hier: Beschlussfassung]]></summary>
-        <author>
-            <name>Alle Tagesordnungspunkte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verkauf des städtischen Grundstücks Nr. 19924/4 mit 4.275 m², Schwarzwaldstraße 81, 81 a, Gebäude- und Freifläche, Stadtteil Südweststadt: Änderung der Zusammensetzung der Käufergesellschaft]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top19</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top19"/>
-        <updated>2024-08-23T09:54:23.000Z</updated>
-        <summary type="html"><![CDATA[Verkauf des städtischen Grundstücks Nr. 19924/4 mit 4.275 m², Schwarzwaldstraße 81, 81 a, Gebäude- und Freifläche, Stadtteil Südweststadt: Änderung der Zusammensetzung der Käufergesellschaft]]></summary>
-        <author>
-            <name>Alle Tagesordnungspunkte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Straßenbeleuchtung zum Festplatz (Ponderosa)]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9807#top3</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9807#top3"/>
-        <updated>2024-08-22T16:19:43.000Z</updated>
-        <summary type="html"><![CDATA[Straßenbeleuchtung zum Festplatz (Ponderosa)]]></summary>
         <author>
             <name>Alle Tagesordnungspunkte</name>
         </author>
