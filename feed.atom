@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-23T03:26:22.664Z</updated>
+    <updated>2024-09-24T03:26:43.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html"/>
     <link rel="self" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vertretung sachkundige Einwohnerinnen und Einwohner im Planungsausschuss]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.14</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.14"/>
+        <updated>2024-09-23T09:57:50.000Z</updated>
+        <summary type="html"><![CDATA[Vertretung sachkundige Einwohnerinnen und Einwohner im Planungsausschuss]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neues Vergabeverfahren zur Erweiterung des Vollservices bei der Wertstoffsammlung]]></title>
         <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top20.1</id>

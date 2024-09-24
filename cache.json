@@ -6,6 +6,16 @@
       "siteUrl": "http://localhost:8080/",
       "articles": [
         {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.14",
+          "author": null,
+          "description": "Vertretung sachkundige Einwohnerinnen und Einwohner im Planungsausschuss",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.14",
+          "publishedOn": "2024-09-23T09:57:50.000Z",
+          "wordCount": null,
+          "title": "Vertretung sachkundige Einwohnerinnen und Einwohner im Planungsausschuss",
+          "imageUrl": null
+        },
+        {
           "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top20.1",
           "author": null,
           "description": "Neues Vergabeverfahren zur Erweiterung des Vollservices bei der Wertstoffsammlung",
