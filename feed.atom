@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-24T03:26:43.232Z</updated>
+    <updated>2024-09-25T03:28:32.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html"/>
     <link rel="self" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weiteres Vorgehen bei der Wertstofferfassung und Entscheidung über Fortgang des Vergabeverfahrens]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top20.3</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top20.3"/>
+        <updated>2024-09-24T12:29:54.000Z</updated>
+        <summary type="html"><![CDATA[Weiteres Vorgehen bei der Wertstofferfassung und Entscheidung über Fortgang des Vergabeverfahrens]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weiteres Vorgehen bei der Wertstofferfassung und Entscheidung über Fortgang des Vergabeverfahrens]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top20.2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top20.2"/>
+        <updated>2024-09-24T11:21:06.000Z</updated>
+        <summary type="html"><![CDATA[Weiteres Vorgehen bei der Wertstofferfassung und Entscheidung über Fortgang des Vergabeverfahrens]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vertretung sachkundige Einwohnerinnen und Einwohner im Planungsausschuss]]></title>
         <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.14</id>

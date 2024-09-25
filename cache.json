@@ -6,6 +6,26 @@
       "siteUrl": "http://localhost:8080/",
       "articles": [
         {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top20.3",
+          "author": null,
+          "description": "Weiteres Vorgehen bei der Wertstofferfassung und Entscheidung über Fortgang des Vergabeverfahrens",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top20.3",
+          "publishedOn": "2024-09-24T12:29:54.000Z",
+          "wordCount": null,
+          "title": "Weiteres Vorgehen bei der Wertstofferfassung und Entscheidung über Fortgang des Vergabeverfahrens",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top20.2",
+          "author": null,
+          "description": "Weiteres Vorgehen bei der Wertstofferfassung und Entscheidung über Fortgang des Vergabeverfahrens",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top20.2",
+          "publishedOn": "2024-09-24T11:21:06.000Z",
+          "wordCount": null,
+          "title": "Weiteres Vorgehen bei der Wertstofferfassung und Entscheidung über Fortgang des Vergabeverfahrens",
+          "imageUrl": null
+        },
+        {
           "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.14",
           "author": null,
           "description": "Vertretung sachkundige Einwohnerinnen und Einwohner im Planungsausschuss",
