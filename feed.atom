@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-26T03:26:41.661Z</updated>
+    <updated>2024-09-27T03:26:27.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html"/>
     <link rel="self" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/feed.atom"/>
@@ -37,11 +37,91 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sicherheit in Karlsruhe]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top1"/>
+        <updated>2024-09-18T13:10:54.000Z</updated>
+        <summary type="html"><![CDATA[Sicherheit in Karlsruhe]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Handlungsschwerpunkte im Bereich Öffentliche Sicherheit und Ordnung]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top1.2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top1.2"/>
+        <updated>2024-09-18T13:10:39.000Z</updated>
+        <summary type="html"><![CDATA[Handlungsschwerpunkte im Bereich Öffentliche Sicherheit und Ordnung]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Neues Vergabeverfahren zur Erweiterung des Vollservices bei der Wertstoffsammlung]]></title>
         <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top20.1</id>
         <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top20.1"/>
         <updated>2024-09-18T12:00:32.000Z</updated>
         <summary type="html"><![CDATA[Neues Vergabeverfahren zur Erweiterung des Vollservices bei der Wertstoffsammlung]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vortrag des Polizeipräsidiums Karlsruhe zum Thema  "Kriminalitätsentwicklung in Karlsruhe"]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top1.1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top1.1"/>
+        <updated>2024-09-18T07:38:31.000Z</updated>
+        <summary type="html"><![CDATA[Vortrag des Polizeipräsidiums Karlsruhe zum Thema  "Kriminalitätsentwicklung in Karlsruhe"]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grundsteuerreform 2025 – Satzung zur Änderung der Satzung der Stadt Karlsruhe über die Erhebung der Grundsteuer und Gewerbesteuer (Hebesatzsatzung)]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top2"/>
+        <updated>2024-09-17T09:06:47.000Z</updated>
+        <summary type="html"><![CDATA[Grundsteuerreform 2025 – Satzung zur Änderung der Satzung der Stadt Karlsruhe über die Erhebung der Grundsteuer und Gewerbesteuer (Hebesatzsatzung)]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wiedereröffnung des Kundenzentrums am Hauptbahnhof an Samstagen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top3</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top3"/>
+        <updated>2024-09-17T09:06:47.000Z</updated>
+        <summary type="html"><![CDATA[Wiedereröffnung des Kundenzentrums am Hauptbahnhof an Samstagen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barrierefreie Haltestelle Hauptbahnhof]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top4</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top4"/>
+        <updated>2024-09-17T09:06:47.000Z</updated>
+        <summary type="html"><![CDATA[Barrierefreie Haltestelle Hauptbahnhof]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stadtentwicklungsstrategie 2035 anpassen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top5</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top5"/>
+        <updated>2024-09-17T09:06:47.000Z</updated>
+        <summary type="html"><![CDATA[Stadtentwicklungsstrategie 2035 anpassen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Annahme des Angebots von Zuwendungen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top6</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top6"/>
+        <updated>2024-09-17T09:06:47.000Z</updated>
+        <summary type="html"><![CDATA[Annahme des Angebots von Zuwendungen]]></summary>
         <author>
             <name>Alle Tagesordnungspunkte</name>
         </author>
@@ -372,146 +452,6 @@
         <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top8"/>
         <updated>2024-08-30T09:09:38.000Z</updated>
         <summary type="html"><![CDATA[Wahl der Ortsvorsteherin bzw. des Ortsvorstehers und der Stellvertretung in Neureut]]></summary>
-        <author>
-            <name>Alle Tagesordnungspunkte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berufung sachkundiger Einwohnerinnen und Einwohner sowie Sachverständiger in gemeinderätliche Ausschüsse und Gremien: Jugendhilfeausschuss]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.1</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.1"/>
-        <updated>2024-08-28T15:10:18.000Z</updated>
-        <summary type="html"><![CDATA[Berufung sachkundiger Einwohnerinnen und Einwohner sowie Sachverständiger in gemeinderätliche Ausschüsse und Gremien: Jugendhilfeausschuss]]></summary>
-        <author>
-            <name>Alle Tagesordnungspunkte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glasfaserausbau in Karlsruhe visualisieren]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9585#top1</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9585#top1"/>
-        <updated>2024-08-28T11:42:15.000Z</updated>
-        <summary type="html"><![CDATA[Glasfaserausbau in Karlsruhe visualisieren]]></summary>
-        <author>
-            <name>Alle Tagesordnungspunkte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benennung von Urkundspersonen für die Unterzeichnung der Sitzungsprotokolle des Ortschaftsrates Stupferich]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top10</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top10"/>
-        <updated>2024-08-28T10:50:07.000Z</updated>
-        <summary type="html"><![CDATA[Benennung von Urkundspersonen für die Unterzeichnung der Sitzungsprotokolle des Ortschaftsrates Stupferich]]></summary>
-        <author>
-            <name>Alle Tagesordnungspunkte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benennung von drei Pflegern für die Betreuung des Stadtteilfriedhofes Stupferich]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top9</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top9"/>
-        <updated>2024-08-28T10:49:55.000Z</updated>
-        <summary type="html"><![CDATA[Benennung von drei Pflegern für die Betreuung des Stadtteilfriedhofes Stupferich]]></summary>
-        <author>
-            <name>Alle Tagesordnungspunkte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bildung eines beschließenden Ausschusses für das Bauwesen „Ortsbaukommission“]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top8</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top8"/>
-        <updated>2024-08-28T10:49:42.000Z</updated>
-        <summary type="html"><![CDATA[Bildung eines beschließenden Ausschusses für das Bauwesen „Ortsbaukommission“]]></summary>
-        <author>
-            <name>Alle Tagesordnungspunkte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wahl eines Ortschaftsrates/einer Ortschaftsrätin und dessen Stellvertreter/deren Stellvertreterin als Mitglied in den Umlegungsausschuss für die Belange des Stadtteils Stupferich]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top7</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top7"/>
-        <updated>2024-08-28T10:49:24.000Z</updated>
-        <summary type="html"><![CDATA[Wahl eines Ortschaftsrates/einer Ortschaftsrätin und dessen Stellvertreter/deren Stellvertreterin als Mitglied in den Umlegungsausschuss für die Belange des Stadtteils Stupferich]]></summary>
-        <author>
-            <name>Alle Tagesordnungspunkte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wahl eines Ortschaftsrates/einer Ortschaftsrätin und dessen Stellvertreters/deren Stellvertreterin als Mitglied in den Gutachterausschuss für die Belange des Stadtteils Stupferich]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top6</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top6"/>
-        <updated>2024-08-28T10:49:07.000Z</updated>
-        <summary type="html"><![CDATA[Wahl eines Ortschaftsrates/einer Ortschaftsrätin und dessen Stellvertreters/deren Stellvertreterin als Mitglied in den Gutachterausschuss für die Belange des Stadtteils Stupferich]]></summary>
-        <author>
-            <name>Alle Tagesordnungspunkte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vorschlag des Ortschaftsrates zur Wahl von Mitgliedern und]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top5</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top5"/>
-        <updated>2024-08-28T10:48:51.000Z</updated>
-        <summary type="html"><![CDATA[Vorschlag des Ortschaftsrates zur Wahl von Mitgliedern und]]></summary>
-        <author>
-            <name>Alle Tagesordnungspunkte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vorschlag des Ortschaftsrates zur Wahl von Mitgliedern und]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top4</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top4"/>
-        <updated>2024-08-28T10:48:21.000Z</updated>
-        <summary type="html"><![CDATA[Vorschlag des Ortschaftsrates zur Wahl von Mitgliedern und]]></summary>
-        <author>
-            <name>Alle Tagesordnungspunkte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vorschlag des Ortschaftsrates zur Wahl von Stellvertretern/Stellvertreterinnen des Ortsvorstehers/der Ortsvorsteherin durch den Gemeinderat]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top3</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top3"/>
-        <updated>2024-08-28T10:46:03.000Z</updated>
-        <summary type="html"><![CDATA[Vorschlag des Ortschaftsrates zur Wahl von Stellvertretern/Stellvertreterinnen des Ortsvorstehers/der Ortsvorsteherin durch den Gemeinderat]]></summary>
-        <author>
-            <name>Alle Tagesordnungspunkte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vorschlag des Ortschaftsrates zur Wahl des Ortsvorstehers/der Ortsvorsteherin durch den Gemeinderat]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top2</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top2"/>
-        <updated>2024-08-28T10:45:26.000Z</updated>
-        <summary type="html"><![CDATA[Vorschlag des Ortschaftsrates zur Wahl des Ortsvorstehers/der Ortsvorsteherin durch den Gemeinderat]]></summary>
-        <author>
-            <name>Alle Tagesordnungspunkte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verpflichtung der Mitglieder des neuen Ortschaftsrates]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top1</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top1"/>
-        <updated>2024-08-28T10:45:10.000Z</updated>
-        <summary type="html"><![CDATA[Verpflichtung der Mitglieder des neuen Ortschaftsrates]]></summary>
-        <author>
-            <name>Alle Tagesordnungspunkte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verabschiedung der ausgeschiedenen Mitglieder]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9997#top2</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9997#top2"/>
-        <updated>2024-08-28T10:37:41.000Z</updated>
-        <summary type="html"><![CDATA[Verabschiedung der ausgeschiedenen Mitglieder]]></summary>
-        <author>
-            <name>Alle Tagesordnungspunkte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Förmliche Feststellung des Nichtvorliegens von Hinderungsgründen bei den gewählten Mitgliedern des neuen Ortschaftsrates; hier: Beschlussfassung]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9997#top1</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9997#top1"/>
-        <updated>2024-08-28T10:37:26.000Z</updated>
-        <summary type="html"><![CDATA[Förmliche Feststellung des Nichtvorliegens von Hinderungsgründen bei den gewählten Mitgliedern des neuen Ortschaftsrates; hier: Beschlussfassung]]></summary>
         <author>
             <name>Alle Tagesordnungspunkte</name>
         </author>

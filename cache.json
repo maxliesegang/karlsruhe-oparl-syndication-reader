@@ -36,6 +36,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top1",
+          "author": null,
+          "description": "Sicherheit in Karlsruhe",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top1",
+          "publishedOn": "2024-09-18T13:10:54.000Z",
+          "wordCount": null,
+          "title": "Sicherheit in Karlsruhe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top1.2",
+          "author": null,
+          "description": "Handlungsschwerpunkte im Bereich Öffentliche Sicherheit und Ordnung",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top1.2",
+          "publishedOn": "2024-09-18T13:10:39.000Z",
+          "wordCount": null,
+          "title": "Handlungsschwerpunkte im Bereich Öffentliche Sicherheit und Ordnung",
+          "imageUrl": null
+        },
+        {
           "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top20.1",
           "author": null,
           "description": "Neues Vergabeverfahren zur Erweiterung des Vollservices bei der Wertstoffsammlung",
@@ -43,6 +63,66 @@
           "publishedOn": "2024-09-18T12:00:32.000Z",
           "wordCount": null,
           "title": "Neues Vergabeverfahren zur Erweiterung des Vollservices bei der Wertstoffsammlung",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top1.1",
+          "author": null,
+          "description": "Vortrag des Polizeipräsidiums Karlsruhe zum Thema  \"Kriminalitätsentwicklung in Karlsruhe\"",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top1.1",
+          "publishedOn": "2024-09-18T07:38:31.000Z",
+          "wordCount": null,
+          "title": "Vortrag des Polizeipräsidiums Karlsruhe zum Thema  \"Kriminalitätsentwicklung in Karlsruhe\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top2",
+          "author": null,
+          "description": "Grundsteuerreform 2025 – Satzung zur Änderung der Satzung der Stadt Karlsruhe über die Erhebung der Grundsteuer und Gewerbesteuer (Hebesatzsatzung)",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top2",
+          "publishedOn": "2024-09-17T09:06:47.000Z",
+          "wordCount": null,
+          "title": "Grundsteuerreform 2025 – Satzung zur Änderung der Satzung der Stadt Karlsruhe über die Erhebung der Grundsteuer und Gewerbesteuer (Hebesatzsatzung)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top3",
+          "author": null,
+          "description": "Wiedereröffnung des Kundenzentrums am Hauptbahnhof an Samstagen",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top3",
+          "publishedOn": "2024-09-17T09:06:47.000Z",
+          "wordCount": null,
+          "title": "Wiedereröffnung des Kundenzentrums am Hauptbahnhof an Samstagen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top4",
+          "author": null,
+          "description": "Barrierefreie Haltestelle Hauptbahnhof",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top4",
+          "publishedOn": "2024-09-17T09:06:47.000Z",
+          "wordCount": null,
+          "title": "Barrierefreie Haltestelle Hauptbahnhof",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top5",
+          "author": null,
+          "description": "Stadtentwicklungsstrategie 2035 anpassen",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top5",
+          "publishedOn": "2024-09-17T09:06:47.000Z",
+          "wordCount": null,
+          "title": "Stadtentwicklungsstrategie 2035 anpassen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top6",
+          "author": null,
+          "description": "Annahme des Angebots von Zuwendungen",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top6",
+          "publishedOn": "2024-09-17T09:06:47.000Z",
+          "wordCount": null,
+          "title": "Annahme des Angebots von Zuwendungen",
           "imageUrl": null
         },
         {
@@ -373,146 +453,6 @@
           "publishedOn": "2024-08-30T09:09:38.000Z",
           "wordCount": 2464,
           "title": "Wahl der Ortsvorsteherin bzw. des Ortsvorstehers und der Stellvertretung in Neureut",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.1",
-          "author": null,
-          "description": "Berufung sachkundiger Einwohnerinnen und Einwohner sowie Sachverständiger in gemeinderätliche Ausschüsse und Gremien: Jugendhilfeausschuss",
-          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top10.1",
-          "publishedOn": "2024-08-28T15:10:18.000Z",
-          "wordCount": null,
-          "title": "Berufung sachkundiger Einwohnerinnen und Einwohner sowie Sachverständiger in gemeinderätliche Ausschüsse und Gremien: Jugendhilfeausschuss",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9585#top1",
-          "author": null,
-          "description": "Glasfaserausbau in Karlsruhe visualisieren",
-          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9585#top1",
-          "publishedOn": "2024-08-28T11:42:15.000Z",
-          "wordCount": 386,
-          "title": "Glasfaserausbau in Karlsruhe visualisieren",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top10",
-          "author": null,
-          "description": "Benennung von Urkundspersonen für die Unterzeichnung der Sitzungsprotokolle des Ortschaftsrates Stupferich",
-          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top10",
-          "publishedOn": "2024-08-28T10:50:07.000Z",
-          "wordCount": 602,
-          "title": "Benennung von Urkundspersonen für die Unterzeichnung der Sitzungsprotokolle des Ortschaftsrates Stupferich",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top9",
-          "author": null,
-          "description": "Benennung von drei Pflegern für die Betreuung des Stadtteilfriedhofes Stupferich",
-          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top9",
-          "publishedOn": "2024-08-28T10:49:55.000Z",
-          "wordCount": 602,
-          "title": "Benennung von drei Pflegern für die Betreuung des Stadtteilfriedhofes Stupferich",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top8",
-          "author": null,
-          "description": "Bildung eines beschließenden Ausschusses für das Bauwesen „Ortsbaukommission“",
-          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top8",
-          "publishedOn": "2024-08-28T10:49:42.000Z",
-          "wordCount": 602,
-          "title": "Bildung eines beschließenden Ausschusses für das Bauwesen „Ortsbaukommission“",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top7",
-          "author": null,
-          "description": "Wahl eines Ortschaftsrates/einer Ortschaftsrätin und dessen Stellvertreter/deren Stellvertreterin als Mitglied in den Umlegungsausschuss für die Belange des Stadtteils Stupferich",
-          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top7",
-          "publishedOn": "2024-08-28T10:49:24.000Z",
-          "wordCount": 602,
-          "title": "Wahl eines Ortschaftsrates/einer Ortschaftsrätin und dessen Stellvertreter/deren Stellvertreterin als Mitglied in den Umlegungsausschuss für die Belange des Stadtteils Stupferich",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top6",
-          "author": null,
-          "description": "Wahl eines Ortschaftsrates/einer Ortschaftsrätin und dessen Stellvertreters/deren Stellvertreterin als Mitglied in den Gutachterausschuss für die Belange des Stadtteils Stupferich",
-          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top6",
-          "publishedOn": "2024-08-28T10:49:07.000Z",
-          "wordCount": 602,
-          "title": "Wahl eines Ortschaftsrates/einer Ortschaftsrätin und dessen Stellvertreters/deren Stellvertreterin als Mitglied in den Gutachterausschuss für die Belange des Stadtteils Stupferich",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top5",
-          "author": null,
-          "description": "Vorschlag des Ortschaftsrates zur Wahl von Mitgliedern und",
-          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top5",
-          "publishedOn": "2024-08-28T10:48:51.000Z",
-          "wordCount": 602,
-          "title": "Vorschlag des Ortschaftsrates zur Wahl von Mitgliedern und",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top4",
-          "author": null,
-          "description": "Vorschlag des Ortschaftsrates zur Wahl von Mitgliedern und",
-          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top4",
-          "publishedOn": "2024-08-28T10:48:21.000Z",
-          "wordCount": 602,
-          "title": "Vorschlag des Ortschaftsrates zur Wahl von Mitgliedern und",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top3",
-          "author": null,
-          "description": "Vorschlag des Ortschaftsrates zur Wahl von Stellvertretern/Stellvertreterinnen des Ortsvorstehers/der Ortsvorsteherin durch den Gemeinderat",
-          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top3",
-          "publishedOn": "2024-08-28T10:46:03.000Z",
-          "wordCount": 602,
-          "title": "Vorschlag des Ortschaftsrates zur Wahl von Stellvertretern/Stellvertreterinnen des Ortsvorstehers/der Ortsvorsteherin durch den Gemeinderat",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top2",
-          "author": null,
-          "description": "Vorschlag des Ortschaftsrates zur Wahl des Ortsvorstehers/der Ortsvorsteherin durch den Gemeinderat",
-          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top2",
-          "publishedOn": "2024-08-28T10:45:26.000Z",
-          "wordCount": 602,
-          "title": "Vorschlag des Ortschaftsrates zur Wahl des Ortsvorstehers/der Ortsvorsteherin durch den Gemeinderat",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top1",
-          "author": null,
-          "description": "Verpflichtung der Mitglieder des neuen Ortschaftsrates",
-          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9842#top1",
-          "publishedOn": "2024-08-28T10:45:10.000Z",
-          "wordCount": 602,
-          "title": "Verpflichtung der Mitglieder des neuen Ortschaftsrates",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9997#top2",
-          "author": null,
-          "description": "Verabschiedung der ausgeschiedenen Mitglieder",
-          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9997#top2",
-          "publishedOn": "2024-08-28T10:37:41.000Z",
-          "wordCount": 442,
-          "title": "Verabschiedung der ausgeschiedenen Mitglieder",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9997#top1",
-          "author": null,
-          "description": "Förmliche Feststellung des Nichtvorliegens von Hinderungsgründen bei den gewählten Mitgliedern des neuen Ortschaftsrates; hier: Beschlussfassung",
-          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9997#top1",
-          "publishedOn": "2024-08-28T10:37:26.000Z",
-          "wordCount": 442,
-          "title": "Förmliche Feststellung des Nichtvorliegens von Hinderungsgründen bei den gewählten Mitgliedern des neuen Ortschaftsrates; hier: Beschlussfassung",
           "imageUrl": null
         }
       ]
