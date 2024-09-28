@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-27T03:26:27.738Z</updated>
+    <updated>2024-09-28T03:25:30.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html"/>
     <link rel="self" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/feed.atom"/>
@@ -132,6 +132,26 @@
         <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top15.1"/>
         <updated>2024-09-16T11:02:52.000Z</updated>
         <summary type="html"><![CDATA[Antrag der LG Region Karlsruhe: Förderung der Langen Laufnacht 2025]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wohnen Augustenburgstraße 10, Grötzingen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9860#top1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9860#top1"/>
+        <updated>2024-09-12T15:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Wohnen Augustenburgstraße 10, Grötzingen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Umnutzung Kaiserstraße 178 - 182, Innenstadt]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9860#top2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9860#top2"/>
+        <updated>2024-09-12T15:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Umnutzung Kaiserstraße 178 - 182, Innenstadt]]></summary>
         <author>
             <name>Alle Tagesordnungspunkte</name>
         </author>
