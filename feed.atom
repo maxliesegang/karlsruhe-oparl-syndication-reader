@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-28T03:25:30.954Z</updated>
+    <updated>2024-09-29T03:29:15.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html"/>
     <link rel="self" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/feed.atom"/>
@@ -452,26 +452,6 @@
         <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9550#top4"/>
         <updated>2024-09-02T14:58:04.000Z</updated>
         <summary type="html"><![CDATA[Bioabfallvergärungsanlage "Eiswiese" in Ettlingen - Sachstandsbericht]]></summary>
-        <author>
-            <name>Alle Tagesordnungspunkte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vhs Karlsruhe – Verlängerung der Laufzeit des Kontokorrentkredits aus dem Jahr 2020 in Höhe von 750.000 Euro bis 31. August 2025]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top5</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9518#top5"/>
-        <updated>2024-08-30T11:28:23.000Z</updated>
-        <summary type="html"><![CDATA[vhs Karlsruhe – Verlängerung der Laufzeit des Kontokorrentkredits aus dem Jahr 2020 in Höhe von 750.000 Euro bis 31. August 2025]]></summary>
-        <author>
-            <name>Alle Tagesordnungspunkte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wahl der Ortsvorsteherin bzw. des Ortsvorstehers und der Stellvertretung in Neureut]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top8</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top8"/>
-        <updated>2024-08-30T09:09:38.000Z</updated>
-        <summary type="html"><![CDATA[Wahl der Ortsvorsteherin bzw. des Ortsvorstehers und der Stellvertretung in Neureut]]></summary>
         <author>
             <name>Alle Tagesordnungspunkte</name>
         </author>
