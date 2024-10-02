@@ -6,6 +6,16 @@
       "siteUrl": "http://localhost:8080/",
       "articles": [
         {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top6",
+          "author": null,
+          "description": "Vertretung sachkundige Einwohnerinnen und Einwohner im Planungsausschuss",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top6",
+          "publishedOn": "2024-09-30T09:46:35.000Z",
+          "wordCount": null,
+          "title": "Vertretung sachkundige Einwohnerinnen und Einwohner im Planungsausschuss",
+          "imageUrl": null
+        },
+        {
           "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top20.3",
           "author": null,
           "description": "Weiteres Vorgehen bei der Wertstofferfassung und Entscheidung über Fortgang des Vergabeverfahrens",
@@ -36,6 +46,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top1",
+          "author": null,
+          "description": "Informationsvorlage Garnisionskirche Knielingen",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top1",
+          "publishedOn": "2024-09-20T12:31:12.000Z",
+          "wordCount": null,
+          "title": "Informationsvorlage Garnisionskirche Knielingen",
+          "imageUrl": null
+        },
+        {
           "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top1",
           "author": null,
           "description": "Sicherheit in Karlsruhe",
@@ -63,6 +83,26 @@
           "publishedOn": "2024-09-18T12:00:32.000Z",
           "wordCount": null,
           "title": "Neues Vergabeverfahren zur Erweiterung des Vollservices bei der Wertstoffsammlung",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top12",
+          "author": null,
+          "description": "Vorentwurf Fortschreibung Lärmaktionsplan 4. Stufe",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top12",
+          "publishedOn": "2024-09-18T09:03:48.000Z",
+          "wordCount": null,
+          "title": "Vorentwurf Fortschreibung Lärmaktionsplan 4. Stufe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top4",
+          "author": null,
+          "description": "Feierabend-Parken für Karlsruhe",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top4",
+          "publishedOn": "2024-09-18T08:56:11.000Z",
+          "wordCount": null,
+          "title": "Feierabend-Parken für Karlsruhe",
           "imageUrl": null
         },
         {
@@ -436,6 +476,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top2",
+          "author": null,
+          "description": "Neuordnung der Verkehrsführung für Kfz zwischen Schlossplatztunnel und Hans-Thoma-Straße",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top2",
+          "publishedOn": "2024-09-09T10:19:55.000Z",
+          "wordCount": null,
+          "title": "Neuordnung der Verkehrsführung für Kfz zwischen Schlossplatztunnel und Hans-Thoma-Straße",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top11",
+          "author": null,
+          "description": "Jährlicher Kurzbericht zum Sozialen Erhaltungsgebiet \"Alte Südstadt\"",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top11",
+          "publishedOn": "2024-09-09T09:47:14.000Z",
+          "wordCount": null,
+          "title": "Jährlicher Kurzbericht zum Sozialen Erhaltungsgebiet \"Alte Südstadt\"",
+          "imageUrl": null
+        },
+        {
           "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3",
           "author": null,
           "description": "Bestellung der Mitglieder von Aufsichts-, Verwaltungs- und Stiftungsräten, von Beiräten und Kommissionen sowie sonstige Gremien",
@@ -443,16 +503,6 @@
           "publishedOn": "2024-09-06T11:42:54.000Z",
           "wordCount": null,
           "title": "Bestellung der Mitglieder von Aufsichts-, Verwaltungs- und Stiftungsräten, von Beiräten und Kommissionen sowie sonstige Gremien",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9550#top4",
-          "author": null,
-          "description": "Bioabfallvergärungsanlage \"Eiswiese\" in Ettlingen - Sachstandsbericht",
-          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9550#top4",
-          "publishedOn": "2024-09-02T14:58:04.000Z",
-          "wordCount": 513,
-          "title": "Bioabfallvergärungsanlage \"Eiswiese\" in Ettlingen - Sachstandsbericht",
           "imageUrl": null
         }
       ]

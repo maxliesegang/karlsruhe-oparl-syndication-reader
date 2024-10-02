@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-01T03:33:04.393Z</updated>
+    <updated>2024-10-02T03:26:39.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html"/>
     <link rel="self" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vertretung sachkundige Einwohnerinnen und Einwohner im Planungsausschuss]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top6</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top6"/>
+        <updated>2024-09-30T09:46:35.000Z</updated>
+        <summary type="html"><![CDATA[Vertretung sachkundige Einwohnerinnen und Einwohner im Planungsausschuss]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weiteres Vorgehen bei der Wertstofferfassung und Entscheidung über Fortgang des Vergabeverfahrens]]></title>
         <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top20.3</id>
@@ -37,6 +47,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Informationsvorlage Garnisionskirche Knielingen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top1"/>
+        <updated>2024-09-20T12:31:12.000Z</updated>
+        <summary type="html"><![CDATA[Informationsvorlage Garnisionskirche Knielingen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sicherheit in Karlsruhe]]></title>
         <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top1</id>
         <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top1"/>
@@ -62,6 +82,26 @@
         <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top20.1"/>
         <updated>2024-09-18T12:00:32.000Z</updated>
         <summary type="html"><![CDATA[Neues Vergabeverfahren zur Erweiterung des Vollservices bei der Wertstoffsammlung]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vorentwurf Fortschreibung Lärmaktionsplan 4. Stufe]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top12</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top12"/>
+        <updated>2024-09-18T09:03:48.000Z</updated>
+        <summary type="html"><![CDATA[Vorentwurf Fortschreibung Lärmaktionsplan 4. Stufe]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feierabend-Parken für Karlsruhe]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top4</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top4"/>
+        <updated>2024-09-18T08:56:11.000Z</updated>
+        <summary type="html"><![CDATA[Feierabend-Parken für Karlsruhe]]></summary>
         <author>
             <name>Alle Tagesordnungspunkte</name>
         </author>
@@ -437,21 +477,31 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bestellung der Mitglieder von Aufsichts-, Verwaltungs- und Stiftungsräten, von Beiräten und Kommissionen sowie sonstige Gremien]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3"/>
-        <updated>2024-09-06T11:42:54.000Z</updated>
-        <summary type="html"><![CDATA[Bestellung der Mitglieder von Aufsichts-, Verwaltungs- und Stiftungsräten, von Beiräten und Kommissionen sowie sonstige Gremien]]></summary>
+        <title type="html"><![CDATA[Neuordnung der Verkehrsführung für Kfz zwischen Schlossplatztunnel und Hans-Thoma-Straße]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top2"/>
+        <updated>2024-09-09T10:19:55.000Z</updated>
+        <summary type="html"><![CDATA[Neuordnung der Verkehrsführung für Kfz zwischen Schlossplatztunnel und Hans-Thoma-Straße]]></summary>
         <author>
             <name>Alle Tagesordnungspunkte</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bioabfallvergärungsanlage "Eiswiese" in Ettlingen - Sachstandsbericht]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9550#top4</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9550#top4"/>
-        <updated>2024-09-02T14:58:04.000Z</updated>
-        <summary type="html"><![CDATA[Bioabfallvergärungsanlage "Eiswiese" in Ettlingen - Sachstandsbericht]]></summary>
+        <title type="html"><![CDATA[Jährlicher Kurzbericht zum Sozialen Erhaltungsgebiet "Alte Südstadt"]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top11</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top11"/>
+        <updated>2024-09-09T09:47:14.000Z</updated>
+        <summary type="html"><![CDATA[Jährlicher Kurzbericht zum Sozialen Erhaltungsgebiet "Alte Südstadt"]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestellung der Mitglieder von Aufsichts-, Verwaltungs- und Stiftungsräten, von Beiräten und Kommissionen sowie sonstige Gremien]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3"/>
+        <updated>2024-09-06T11:42:54.000Z</updated>
+        <summary type="html"><![CDATA[Bestellung der Mitglieder von Aufsichts-, Verwaltungs- und Stiftungsräten, von Beiräten und Kommissionen sowie sonstige Gremien]]></summary>
         <author>
             <name>Alle Tagesordnungspunkte</name>
         </author>
