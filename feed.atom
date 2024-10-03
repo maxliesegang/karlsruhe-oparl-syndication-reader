@@ -2,16 +2,126 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-02T03:26:39.035Z</updated>
+    <updated>2024-10-03T03:26:36.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html"/>
     <link rel="self" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Verschiedenes]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9843#top5</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9843#top5"/>
+        <updated>2024-10-01T12:03:50.000Z</updated>
+        <summary type="html"><![CDATA[Verschiedenes]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mitteilungen der Ortsverwaltung]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9843#top4</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9843#top4"/>
+        <updated>2024-10-01T12:03:19.000Z</updated>
+        <summary type="html"><![CDATA[Mitteilungen der Ortsverwaltung]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antrag der CDU-GR-Fraktion vom 12.07.2024, hier: Einrichtung einer stationären Jugendverkehrsschule an der Bergleshalle Stupferich]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9843#top3</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9843#top3"/>
+        <updated>2024-10-01T12:02:48.000Z</updated>
+        <summary type="html"><![CDATA[Antrag der CDU-GR-Fraktion vom 12.07.2024, hier: Einrichtung einer stationären Jugendverkehrsschule an der Bergleshalle Stupferich]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kriminalstatistik für Stupferich 2023]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9843#top2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9843#top2"/>
+        <updated>2024-10-01T12:02:05.000Z</updated>
+        <summary type="html"><![CDATA[Kriminalstatistik für Stupferich 2023]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bürgerfragestunde]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9843#top1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9843#top1"/>
+        <updated>2024-10-01T12:01:23.000Z</updated>
+        <summary type="html"><![CDATA[Bürgerfragestunde]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vertretung sachkundige Einwohnerinnen und Einwohner im Planungsausschuss]]></title>
         <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top6</id>
         <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top6"/>
         <updated>2024-09-30T09:46:35.000Z</updated>
         <summary type="html"><![CDATA[Vertretung sachkundige Einwohnerinnen und Einwohner im Planungsausschuss]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stadthalle Modernisierung]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top1"/>
+        <updated>2024-09-25T15:55:57.000Z</updated>
+        <summary type="html"><![CDATA[Stadthalle Modernisierung]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stadthalle Modernisierung]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top2"/>
+        <updated>2024-09-25T15:55:57.000Z</updated>
+        <summary type="html"><![CDATA[Stadthalle Modernisierung]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verwaltungsgebäude Helmholtzstraße 1, Modernisierung, Rohbau]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top3</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top3"/>
+        <updated>2024-09-25T15:55:57.000Z</updated>
+        <summary type="html"><![CDATA[Verwaltungsgebäude Helmholtzstraße 1, Modernisierung, Rohbau]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verschiedene Liegenschaften im Bereich der Stadt Karlsruhe (9 Lose)]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top4</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top4"/>
+        <updated>2024-09-25T15:55:57.000Z</updated>
+        <summary type="html"><![CDATA[Verschiedene Liegenschaften im Bereich der Stadt Karlsruhe (9 Lose)]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abwasserbeseitigung, Netzsanierung Grötzingen, Kanalauswechslung Fröbelstraße]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top5</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top5"/>
+        <updated>2024-09-25T15:55:57.000Z</updated>
+        <summary type="html"><![CDATA[Abwasserbeseitigung, Netzsanierung Grötzingen, Kanalauswechslung Fröbelstraße]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Klärwerk Karlsruhe, Sanierung der mechanischen Reinigungsstufe, Bauabschnitt 3]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top6</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top6"/>
+        <updated>2024-09-25T15:55:57.000Z</updated>
+        <summary type="html"><![CDATA[Klärwerk Karlsruhe, Sanierung der mechanischen Reinigungsstufe, Bauabschnitt 3]]></summary>
         <author>
             <name>Alle Tagesordnungspunkte</name>
         </author>
@@ -502,6 +612,16 @@
         <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3"/>
         <updated>2024-09-06T11:42:54.000Z</updated>
         <summary type="html"><![CDATA[Bestellung der Mitglieder von Aufsichts-, Verwaltungs- und Stiftungsräten, von Beiräten und Kommissionen sowie sonstige Gremien]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Projektverlängerungen: „Deutsch spielerisch lernen“ der Landsmannschaft der Deutschen aus Russland e. V. und „Sprachtreff: Spielend Deutsch lernen“ der AWO Karlsruhe gGmbH]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9731#top3</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9731#top3"/>
+        <updated>2024-09-05T12:37:38.000Z</updated>
+        <summary type="html"><![CDATA[Projektverlängerungen: „Deutsch spielerisch lernen“ der Landsmannschaft der Deutschen aus Russland e. V. und „Sprachtreff: Spielend Deutsch lernen“ der AWO Karlsruhe gGmbH]]></summary>
         <author>
             <name>Alle Tagesordnungspunkte</name>
         </author>

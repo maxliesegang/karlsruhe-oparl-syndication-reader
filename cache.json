@@ -6,6 +6,56 @@
       "siteUrl": "http://localhost:8080/",
       "articles": [
         {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9843#top5",
+          "author": null,
+          "description": "Verschiedenes",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9843#top5",
+          "publishedOn": "2024-10-01T12:03:50.000Z",
+          "wordCount": 474,
+          "title": "Verschiedenes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9843#top4",
+          "author": null,
+          "description": "Mitteilungen der Ortsverwaltung",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9843#top4",
+          "publishedOn": "2024-10-01T12:03:19.000Z",
+          "wordCount": 474,
+          "title": "Mitteilungen der Ortsverwaltung",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9843#top3",
+          "author": null,
+          "description": "Antrag der CDU-GR-Fraktion vom 12.07.2024, hier: Einrichtung einer stationären Jugendverkehrsschule an der Bergleshalle Stupferich",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9843#top3",
+          "publishedOn": "2024-10-01T12:02:48.000Z",
+          "wordCount": 474,
+          "title": "Antrag der CDU-GR-Fraktion vom 12.07.2024, hier: Einrichtung einer stationären Jugendverkehrsschule an der Bergleshalle Stupferich",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9843#top2",
+          "author": null,
+          "description": "Kriminalstatistik für Stupferich 2023",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9843#top2",
+          "publishedOn": "2024-10-01T12:02:05.000Z",
+          "wordCount": 474,
+          "title": "Kriminalstatistik für Stupferich 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9843#top1",
+          "author": null,
+          "description": "Bürgerfragestunde",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9843#top1",
+          "publishedOn": "2024-10-01T12:01:23.000Z",
+          "wordCount": 474,
+          "title": "Bürgerfragestunde",
+          "imageUrl": null
+        },
+        {
           "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top6",
           "author": null,
           "description": "Vertretung sachkundige Einwohnerinnen und Einwohner im Planungsausschuss",
@@ -13,6 +63,66 @@
           "publishedOn": "2024-09-30T09:46:35.000Z",
           "wordCount": null,
           "title": "Vertretung sachkundige Einwohnerinnen und Einwohner im Planungsausschuss",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top1",
+          "author": null,
+          "description": "Stadthalle Modernisierung",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top1",
+          "publishedOn": "2024-09-25T15:55:57.000Z",
+          "wordCount": 429,
+          "title": "Stadthalle Modernisierung",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top2",
+          "author": null,
+          "description": "Stadthalle Modernisierung",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top2",
+          "publishedOn": "2024-09-25T15:55:57.000Z",
+          "wordCount": null,
+          "title": "Stadthalle Modernisierung",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top3",
+          "author": null,
+          "description": "Verwaltungsgebäude Helmholtzstraße 1, Modernisierung, Rohbau",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top3",
+          "publishedOn": "2024-09-25T15:55:57.000Z",
+          "wordCount": null,
+          "title": "Verwaltungsgebäude Helmholtzstraße 1, Modernisierung, Rohbau",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top4",
+          "author": null,
+          "description": "Verschiedene Liegenschaften im Bereich der Stadt Karlsruhe (9 Lose)",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top4",
+          "publishedOn": "2024-09-25T15:55:57.000Z",
+          "wordCount": null,
+          "title": "Verschiedene Liegenschaften im Bereich der Stadt Karlsruhe (9 Lose)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top5",
+          "author": null,
+          "description": "Abwasserbeseitigung, Netzsanierung Grötzingen, Kanalauswechslung Fröbelstraße",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top5",
+          "publishedOn": "2024-09-25T15:55:57.000Z",
+          "wordCount": null,
+          "title": "Abwasserbeseitigung, Netzsanierung Grötzingen, Kanalauswechslung Fröbelstraße",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top6",
+          "author": null,
+          "description": "Klärwerk Karlsruhe, Sanierung der mechanischen Reinigungsstufe, Bauabschnitt 3",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top6",
+          "publishedOn": "2024-09-25T15:55:57.000Z",
+          "wordCount": null,
+          "title": "Klärwerk Karlsruhe, Sanierung der mechanischen Reinigungsstufe, Bauabschnitt 3",
           "imageUrl": null
         },
         {
@@ -503,6 +613,16 @@
           "publishedOn": "2024-09-06T11:42:54.000Z",
           "wordCount": null,
           "title": "Bestellung der Mitglieder von Aufsichts-, Verwaltungs- und Stiftungsräten, von Beiräten und Kommissionen sowie sonstige Gremien",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9731#top3",
+          "author": null,
+          "description": "Projektverlängerungen: „Deutsch spielerisch lernen“ der Landsmannschaft der Deutschen aus Russland e. V. und „Sprachtreff: Spielend Deutsch lernen“ der AWO Karlsruhe gGmbH",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9731#top3",
+          "publishedOn": "2024-09-05T12:37:38.000Z",
+          "wordCount": null,
+          "title": "Projektverlängerungen: „Deutsch spielerisch lernen“ der Landsmannschaft der Deutschen aus Russland e. V. und „Sprachtreff: Spielend Deutsch lernen“ der AWO Karlsruhe gGmbH",
           "imageUrl": null
         }
       ]
