@@ -6,6 +6,26 @@
       "siteUrl": "http://localhost:8080/",
       "articles": [
         {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top2.1",
+          "author": null,
+          "description": "Grundsteuerreform 2025: Neue Grundsteuer ab 2025 aufkommensneutral justieren",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top2.1",
+          "publishedOn": "2024-10-04T10:33:28.000Z",
+          "wordCount": null,
+          "title": "Grundsteuerreform 2025: Neue Grundsteuer ab 2025 aufkommensneutral justieren",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9808#top2",
+          "author": null,
+          "description": "Vorzeitige Abräumung der Gräber auf dem Alten Friedhof",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9808#top2",
+          "publishedOn": "2024-10-01T19:49:10.000Z",
+          "wordCount": 329,
+          "title": "Vorzeitige Abräumung der Gräber auf dem Alten Friedhof",
+          "imageUrl": null
+        },
+        {
           "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9843#top5",
           "author": null,
           "description": "Verschiedenes",
@@ -56,6 +76,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top3",
+          "author": null,
+          "description": "Gespräch mit Oberbürgermeister Dr. Mentrup",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top3",
+          "publishedOn": "2024-09-30T12:58:25.000Z",
+          "wordCount": 548,
+          "title": "Gespräch mit Oberbürgermeister Dr. Mentrup",
+          "imageUrl": null
+        },
+        {
           "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top6",
           "author": null,
           "description": "Vertretung sachkundige Einwohnerinnen und Einwohner im Planungsausschuss",
@@ -63,6 +93,26 @@
           "publishedOn": "2024-09-30T09:46:35.000Z",
           "wordCount": null,
           "title": "Vertretung sachkundige Einwohnerinnen und Einwohner im Planungsausschuss",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9808#top4",
+          "author": null,
+          "description": "Mündliche Anfragen",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9808#top4",
+          "publishedOn": "2024-09-26T10:27:15.000Z",
+          "wordCount": 329,
+          "title": "Mündliche Anfragen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9808#top3",
+          "author": null,
+          "description": "Mitteilungen der Verwaltung",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9808#top3",
+          "publishedOn": "2024-09-26T10:27:05.000Z",
+          "wordCount": 329,
+          "title": "Mitteilungen der Verwaltung",
           "imageUrl": null
         },
         {
@@ -156,6 +206,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top4",
+          "author": null,
+          "description": "Open Library in den Stadtteilbibliotheken Durlach, Mühlburg und Waldstadt",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top4",
+          "publishedOn": "2024-09-23T09:42:13.000Z",
+          "wordCount": 548,
+          "title": "Open Library in den Stadtteilbibliotheken Durlach, Mühlburg und Waldstadt",
+          "imageUrl": null
+        },
+        {
           "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top1",
           "author": null,
           "description": "Informationsvorlage Garnisionskirche Knielingen",
@@ -163,6 +223,66 @@
           "publishedOn": "2024-09-20T12:31:12.000Z",
           "wordCount": null,
           "title": "Informationsvorlage Garnisionskirche Knielingen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top9",
+          "author": null,
+          "description": "Mündliche Fragen",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top9",
+          "publishedOn": "2024-09-20T08:02:35.000Z",
+          "wordCount": 548,
+          "title": "Mündliche Fragen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top8",
+          "author": null,
+          "description": "Mitteilungen des Stadtamtes Durlach",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top8",
+          "publishedOn": "2024-09-20T08:02:27.000Z",
+          "wordCount": 548,
+          "title": "Mitteilungen des Stadtamtes Durlach",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top5",
+          "author": null,
+          "description": "Einrichtung einer touristischen Unterrichtungstafel",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top5",
+          "publishedOn": "2024-09-20T08:01:08.000Z",
+          "wordCount": 548,
+          "title": "Einrichtung einer touristischen Unterrichtungstafel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top6",
+          "author": null,
+          "description": "Notwendigkeit eines neuen Verkehrszahlen- und Wirtschaftlichtkeitsgutachten für die Verlängerung der Turmbergbahn",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top6",
+          "publishedOn": "2024-09-20T08:01:08.000Z",
+          "wordCount": 548,
+          "title": "Notwendigkeit eines neuen Verkehrszahlen- und Wirtschaftlichtkeitsgutachten für die Verlängerung der Turmbergbahn",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top7",
+          "author": null,
+          "description": "Aktualisierte Fakten und Zahlen zur Turmbergbahn",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top7",
+          "publishedOn": "2024-09-20T08:01:08.000Z",
+          "wordCount": 548,
+          "title": "Aktualisierte Fakten und Zahlen zur Turmbergbahn",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9808#top1",
+          "author": null,
+          "description": "Bürgerfragestunde",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9808#top1",
+          "publishedOn": "2024-09-19T16:38:59.000Z",
+          "wordCount": 329,
+          "title": "Bürgerfragestunde",
           "imageUrl": null
         },
         {
@@ -283,6 +403,36 @@
           "publishedOn": "2024-09-16T11:02:52.000Z",
           "wordCount": null,
           "title": "Antrag der LG Region Karlsruhe: Förderung der Langen Laufnacht 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9693#top3.2",
+          "author": null,
+          "description": "Aktueller Sachstand zu den Machbarkeitsstudien für Nahwärmenetze in Karlsruhe",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9693#top3.2",
+          "publishedOn": "2024-09-13T11:39:55.000Z",
+          "wordCount": null,
+          "title": "Aktueller Sachstand zu den Machbarkeitsstudien für Nahwärmenetze in Karlsruhe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9693#top3",
+          "author": null,
+          "description": "Sachstand zur Umsetzung des Energieleitplans",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9693#top3",
+          "publishedOn": "2024-09-13T11:38:32.000Z",
+          "wordCount": null,
+          "title": "Sachstand zur Umsetzung des Energieleitplans",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9693#top1",
+          "author": null,
+          "description": "Allgemeine Informationen über die Arbeitsweise des Ausschusses für Umwelt und Gesundheit und des Naturschutzbeirats",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9693#top1",
+          "publishedOn": "2024-09-13T11:37:32.000Z",
+          "wordCount": null,
+          "title": "Allgemeine Informationen über die Arbeitsweise des Ausschusses für Umwelt und Gesundheit und des Naturschutzbeirats",
           "imageUrl": null
         },
         {
@@ -613,16 +763,6 @@
           "publishedOn": "2024-09-06T11:42:54.000Z",
           "wordCount": null,
           "title": "Bestellung der Mitglieder von Aufsichts-, Verwaltungs- und Stiftungsräten, von Beiräten und Kommissionen sowie sonstige Gremien",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9731#top3",
-          "author": null,
-          "description": "Projektverlängerungen: „Deutsch spielerisch lernen“ der Landsmannschaft der Deutschen aus Russland e. V. und „Sprachtreff: Spielend Deutsch lernen“ der AWO Karlsruhe gGmbH",
-          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9731#top3",
-          "publishedOn": "2024-09-05T12:37:38.000Z",
-          "wordCount": null,
-          "title": "Projektverlängerungen: „Deutsch spielerisch lernen“ der Landsmannschaft der Deutschen aus Russland e. V. und „Sprachtreff: Spielend Deutsch lernen“ der AWO Karlsruhe gGmbH",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-04T03:26:12.954Z</updated>
+    <updated>2024-10-05T03:25:17.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html"/>
     <link rel="self" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Grundsteuerreform 2025: Neue Grundsteuer ab 2025 aufkommensneutral justieren]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top2.1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top2.1"/>
+        <updated>2024-10-04T10:33:28.000Z</updated>
+        <summary type="html"><![CDATA[Grundsteuerreform 2025: Neue Grundsteuer ab 2025 aufkommensneutral justieren]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vorzeitige Abräumung der Gräber auf dem Alten Friedhof]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9808#top2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9808#top2"/>
+        <updated>2024-10-01T19:49:10.000Z</updated>
+        <summary type="html"><![CDATA[Vorzeitige Abräumung der Gräber auf dem Alten Friedhof]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Verschiedenes]]></title>
         <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9843#top5</id>
@@ -57,11 +77,41 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Gespräch mit Oberbürgermeister Dr. Mentrup]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top3</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top3"/>
+        <updated>2024-09-30T12:58:25.000Z</updated>
+        <summary type="html"><![CDATA[Gespräch mit Oberbürgermeister Dr. Mentrup]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vertretung sachkundige Einwohnerinnen und Einwohner im Planungsausschuss]]></title>
         <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top6</id>
         <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top6"/>
         <updated>2024-09-30T09:46:35.000Z</updated>
         <summary type="html"><![CDATA[Vertretung sachkundige Einwohnerinnen und Einwohner im Planungsausschuss]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mündliche Anfragen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9808#top4</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9808#top4"/>
+        <updated>2024-09-26T10:27:15.000Z</updated>
+        <summary type="html"><![CDATA[Mündliche Anfragen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mitteilungen der Verwaltung]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9808#top3</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9808#top3"/>
+        <updated>2024-09-26T10:27:05.000Z</updated>
+        <summary type="html"><![CDATA[Mitteilungen der Verwaltung]]></summary>
         <author>
             <name>Alle Tagesordnungspunkte</name>
         </author>
@@ -157,11 +207,81 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Open Library in den Stadtteilbibliotheken Durlach, Mühlburg und Waldstadt]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top4</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top4"/>
+        <updated>2024-09-23T09:42:13.000Z</updated>
+        <summary type="html"><![CDATA[Open Library in den Stadtteilbibliotheken Durlach, Mühlburg und Waldstadt]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Informationsvorlage Garnisionskirche Knielingen]]></title>
         <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top1</id>
         <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9552#top1"/>
         <updated>2024-09-20T12:31:12.000Z</updated>
         <summary type="html"><![CDATA[Informationsvorlage Garnisionskirche Knielingen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mündliche Fragen]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top9</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top9"/>
+        <updated>2024-09-20T08:02:35.000Z</updated>
+        <summary type="html"><![CDATA[Mündliche Fragen]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mitteilungen des Stadtamtes Durlach]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top8</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top8"/>
+        <updated>2024-09-20T08:02:27.000Z</updated>
+        <summary type="html"><![CDATA[Mitteilungen des Stadtamtes Durlach]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Einrichtung einer touristischen Unterrichtungstafel]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top5</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top5"/>
+        <updated>2024-09-20T08:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Einrichtung einer touristischen Unterrichtungstafel]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notwendigkeit eines neuen Verkehrszahlen- und Wirtschaftlichtkeitsgutachten für die Verlängerung der Turmbergbahn]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top6</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top6"/>
+        <updated>2024-09-20T08:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Notwendigkeit eines neuen Verkehrszahlen- und Wirtschaftlichtkeitsgutachten für die Verlängerung der Turmbergbahn]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aktualisierte Fakten und Zahlen zur Turmbergbahn]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top7</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9777#top7"/>
+        <updated>2024-09-20T08:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Aktualisierte Fakten und Zahlen zur Turmbergbahn]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bürgerfragestunde]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9808#top1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9808#top1"/>
+        <updated>2024-09-19T16:38:59.000Z</updated>
+        <summary type="html"><![CDATA[Bürgerfragestunde]]></summary>
         <author>
             <name>Alle Tagesordnungspunkte</name>
         </author>
@@ -282,6 +402,36 @@
         <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top15.1"/>
         <updated>2024-09-16T11:02:52.000Z</updated>
         <summary type="html"><![CDATA[Antrag der LG Region Karlsruhe: Förderung der Langen Laufnacht 2025]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aktueller Sachstand zu den Machbarkeitsstudien für Nahwärmenetze in Karlsruhe]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9693#top3.2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9693#top3.2"/>
+        <updated>2024-09-13T11:39:55.000Z</updated>
+        <summary type="html"><![CDATA[Aktueller Sachstand zu den Machbarkeitsstudien für Nahwärmenetze in Karlsruhe]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sachstand zur Umsetzung des Energieleitplans]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9693#top3</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9693#top3"/>
+        <updated>2024-09-13T11:38:32.000Z</updated>
+        <summary type="html"><![CDATA[Sachstand zur Umsetzung des Energieleitplans]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allgemeine Informationen über die Arbeitsweise des Ausschusses für Umwelt und Gesundheit und des Naturschutzbeirats]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9693#top1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9693#top1"/>
+        <updated>2024-09-13T11:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Allgemeine Informationen über die Arbeitsweise des Ausschusses für Umwelt und Gesundheit und des Naturschutzbeirats]]></summary>
         <author>
             <name>Alle Tagesordnungspunkte</name>
         </author>
@@ -612,16 +762,6 @@
         <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3"/>
         <updated>2024-09-06T11:42:54.000Z</updated>
         <summary type="html"><![CDATA[Bestellung der Mitglieder von Aufsichts-, Verwaltungs- und Stiftungsräten, von Beiräten und Kommissionen sowie sonstige Gremien]]></summary>
-        <author>
-            <name>Alle Tagesordnungspunkte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Projektverlängerungen: „Deutsch spielerisch lernen“ der Landsmannschaft der Deutschen aus Russland e. V. und „Sprachtreff: Spielend Deutsch lernen“ der AWO Karlsruhe gGmbH]]></title>
-        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9731#top3</id>
-        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9731#top3"/>
-        <updated>2024-09-05T12:37:38.000Z</updated>
-        <summary type="html"><![CDATA[Projektverlängerungen: „Deutsch spielerisch lernen“ der Landsmannschaft der Deutschen aus Russland e. V. und „Sprachtreff: Spielend Deutsch lernen“ der AWO Karlsruhe gGmbH]]></summary>
         <author>
             <name>Alle Tagesordnungspunkte</name>
         </author>
