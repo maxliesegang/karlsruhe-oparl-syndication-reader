@@ -496,6 +496,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9760#top5",
+          "author": null,
+          "description": "Jährliche Kita-Statistik für Grünwettersbach und Palmbach",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9760#top5",
+          "publishedOn": "2024-09-12T11:56:15.000Z",
+          "wordCount": null,
+          "title": "Jährliche Kita-Statistik für Grünwettersbach und Palmbach",
+          "imageUrl": null
+        },
+        {
           "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top8.1",
           "author": null,
           "description": "Wahl der Ortsvorsteherin bzw. des Ortsvorstehers in Neureut",
@@ -753,16 +763,6 @@
           "publishedOn": "2024-09-09T09:47:14.000Z",
           "wordCount": null,
           "title": "Jährlicher Kurzbericht zum Sozialen Erhaltungsgebiet \"Alte Südstadt\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3",
-          "author": null,
-          "description": "Bestellung der Mitglieder von Aufsichts-, Verwaltungs- und Stiftungsräten, von Beiräten und Kommissionen sowie sonstige Gremien",
-          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9531#top3",
-          "publishedOn": "2024-09-06T11:42:54.000Z",
-          "wordCount": null,
-          "title": "Bestellung der Mitglieder von Aufsichts-, Verwaltungs- und Stiftungsräten, von Beiräten und Kommissionen sowie sonstige Gremien",
           "imageUrl": null
         }
       ]
