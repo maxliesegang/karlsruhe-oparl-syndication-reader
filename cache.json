@@ -6,6 +6,66 @@
       "siteUrl": "http://localhost:8080/",
       "articles": [
         {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5.3",
+          "author": null,
+          "description": "Bauantrag Greschbachstraße 17",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5.3",
+          "publishedOn": "2024-10-07T16:34:13.000Z",
+          "wordCount": 668,
+          "title": "Bauantrag Greschbachstraße 17",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5.2",
+          "author": null,
+          "description": "Bauantrag Am Wasserfall (Gewann) 2",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5.2",
+          "publishedOn": "2024-10-07T16:30:24.000Z",
+          "wordCount": 668,
+          "title": "Bauantrag Am Wasserfall (Gewann) 2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5.1",
+          "author": null,
+          "description": "Bauantrag Am Schwalbenloch 17+19",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5.1",
+          "publishedOn": "2024-10-07T13:20:09.000Z",
+          "wordCount": 668,
+          "title": "Bauantrag Am Schwalbenloch 17+19",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5.4",
+          "author": null,
+          "description": "Bauvoranfrage Augustenburgstr. 112",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5.4",
+          "publishedOn": "2024-10-07T11:43:42.000Z",
+          "wordCount": 668,
+          "title": "Bauvoranfrage Augustenburgstr. 112",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5.5",
+          "author": null,
+          "description": "Bauantrag Augustenburgstr. 10",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5.5",
+          "publishedOn": "2024-10-07T11:39:49.000Z",
+          "wordCount": 668,
+          "title": "Bauantrag Augustenburgstr. 10",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5",
+          "author": null,
+          "description": "Bauanträge",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5",
+          "publishedOn": "2024-10-07T11:37:22.000Z",
+          "wordCount": 668,
+          "title": "Bauanträge",
+          "imageUrl": null
+        },
+        {
           "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top2.1",
           "author": null,
           "description": "Grundsteuerreform 2025: Neue Grundsteuer ab 2025 aufkommensneutral justieren",
@@ -96,6 +156,76 @@
           "imageUrl": null
         },
         {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top1",
+          "author": null,
+          "description": "Vorstellung der Kita-Bedarfsplanung",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top1",
+          "publishedOn": "2024-09-27T12:20:07.000Z",
+          "wordCount": null,
+          "title": "Vorstellung der Kita-Bedarfsplanung",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top2",
+          "author": null,
+          "description": "Vorstellung der Planungen für einen Kita-Neubau der ev. Kirchengemeinde Neureut Nord",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top2",
+          "publishedOn": "2024-09-27T12:20:07.000Z",
+          "wordCount": null,
+          "title": "Vorstellung der Planungen für einen Kita-Neubau der ev. Kirchengemeinde Neureut Nord",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top3",
+          "author": null,
+          "description": "Vorstellung des neuen Vorstandes der Hardtstiftung",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top3",
+          "publishedOn": "2024-09-27T12:20:07.000Z",
+          "wordCount": null,
+          "title": "Vorstellung des neuen Vorstandes der Hardtstiftung",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top4",
+          "author": null,
+          "description": "Antrag der GRÜNE-Ortschaftsratsfraktion auf Sachstandsanfrage und Vorberatung in einem Ausschuss zum Umsetzungsstand „Integriertes Stadtteilentwicklungskonzept Neureut 2020“ als Basis für eine „Zukunftsvereinbarung Neureut“",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top4",
+          "publishedOn": "2024-09-27T12:20:07.000Z",
+          "wordCount": null,
+          "title": "Antrag der GRÜNE-Ortschaftsratsfraktion auf Sachstandsanfrage und Vorberatung in einem Ausschuss zum Umsetzungsstand „Integriertes Stadtteilentwicklungskonzept Neureut 2020“ als Basis für eine „Zukunftsvereinbarung Neureut“",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top5",
+          "author": null,
+          "description": "Symbolische Aberkennung der Ehrenbürgerwürde",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top5",
+          "publishedOn": "2024-09-27T12:20:07.000Z",
+          "wordCount": null,
+          "title": "Symbolische Aberkennung der Ehrenbürgerwürde",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top6",
+          "author": null,
+          "description": "Bekanntgaben",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top6",
+          "publishedOn": "2024-09-27T12:20:07.000Z",
+          "wordCount": null,
+          "title": "Bekanntgaben",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top7",
+          "author": null,
+          "description": "Anfragen und Anregungen aus dem Ortschaftsrat",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top7",
+          "publishedOn": "2024-09-27T12:20:07.000Z",
+          "wordCount": null,
+          "title": "Anfragen und Anregungen aus dem Ortschaftsrat",
+          "imageUrl": null
+        },
+        {
           "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9808#top4",
           "author": null,
           "description": "Mündliche Anfragen",
@@ -173,6 +303,16 @@
           "publishedOn": "2024-09-25T15:55:57.000Z",
           "wordCount": null,
           "title": "Klärwerk Karlsruhe, Sanierung der mechanischen Reinigungsstufe, Bauabschnitt 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top4",
+          "author": null,
+          "description": "Besetzung von Ausschüssen und Funktionen des Ortschaftsrates",
+          "link": "https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top4",
+          "publishedOn": "2024-09-25T09:44:56.000Z",
+          "wordCount": 668,
+          "title": "Besetzung von Ausschüssen und Funktionen des Ortschaftsrates",
           "imageUrl": null
         },
         {

@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-07T03:28:41.715Z</updated>
+    <updated>2024-10-08T03:28:39.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/index.html"/>
     <link rel="self" href="https://maxliesegang.github.io/karlsruhe-oparl-syndication-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bauantrag Greschbachstraße 17]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5.3</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5.3"/>
+        <updated>2024-10-07T16:34:13.000Z</updated>
+        <summary type="html"><![CDATA[Bauantrag Greschbachstraße 17]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bauantrag Am Wasserfall (Gewann) 2]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5.2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5.2"/>
+        <updated>2024-10-07T16:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Bauantrag Am Wasserfall (Gewann) 2]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bauantrag Am Schwalbenloch 17+19]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5.1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5.1"/>
+        <updated>2024-10-07T13:20:09.000Z</updated>
+        <summary type="html"><![CDATA[Bauantrag Am Schwalbenloch 17+19]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bauvoranfrage Augustenburgstr. 112]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5.4</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5.4"/>
+        <updated>2024-10-07T11:43:42.000Z</updated>
+        <summary type="html"><![CDATA[Bauvoranfrage Augustenburgstr. 112]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bauantrag Augustenburgstr. 10]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5.5</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5.5"/>
+        <updated>2024-10-07T11:39:49.000Z</updated>
+        <summary type="html"><![CDATA[Bauantrag Augustenburgstr. 10]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bauanträge]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top5"/>
+        <updated>2024-10-07T11:37:22.000Z</updated>
+        <summary type="html"><![CDATA[Bauanträge]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grundsteuerreform 2025: Neue Grundsteuer ab 2025 aufkommensneutral justieren]]></title>
         <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9519#top2.1</id>
@@ -97,6 +157,76 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vorstellung der Kita-Bedarfsplanung]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top1</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top1"/>
+        <updated>2024-09-27T12:20:07.000Z</updated>
+        <summary type="html"><![CDATA[Vorstellung der Kita-Bedarfsplanung]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vorstellung der Planungen für einen Kita-Neubau der ev. Kirchengemeinde Neureut Nord]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top2</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top2"/>
+        <updated>2024-09-27T12:20:07.000Z</updated>
+        <summary type="html"><![CDATA[Vorstellung der Planungen für einen Kita-Neubau der ev. Kirchengemeinde Neureut Nord]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vorstellung des neuen Vorstandes der Hardtstiftung]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top3</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top3"/>
+        <updated>2024-09-27T12:20:07.000Z</updated>
+        <summary type="html"><![CDATA[Vorstellung des neuen Vorstandes der Hardtstiftung]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antrag der GRÜNE-Ortschaftsratsfraktion auf Sachstandsanfrage und Vorberatung in einem Ausschuss zum Umsetzungsstand „Integriertes Stadtteilentwicklungskonzept Neureut 2020“ als Basis für eine „Zukunftsvereinbarung Neureut“]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top4</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top4"/>
+        <updated>2024-09-27T12:20:07.000Z</updated>
+        <summary type="html"><![CDATA[Antrag der GRÜNE-Ortschaftsratsfraktion auf Sachstandsanfrage und Vorberatung in einem Ausschuss zum Umsetzungsstand „Integriertes Stadtteilentwicklungskonzept Neureut 2020“ als Basis für eine „Zukunftsvereinbarung Neureut“]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Symbolische Aberkennung der Ehrenbürgerwürde]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top5</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top5"/>
+        <updated>2024-09-27T12:20:07.000Z</updated>
+        <summary type="html"><![CDATA[Symbolische Aberkennung der Ehrenbürgerwürde]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bekanntgaben]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top6</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top6"/>
+        <updated>2024-09-27T12:20:07.000Z</updated>
+        <summary type="html"><![CDATA[Bekanntgaben]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anfragen und Anregungen aus dem Ortschaftsrat]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top7</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9820#top7"/>
+        <updated>2024-09-27T12:20:07.000Z</updated>
+        <summary type="html"><![CDATA[Anfragen und Anregungen aus dem Ortschaftsrat]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mündliche Anfragen]]></title>
         <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9808#top4</id>
         <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9808#top4"/>
@@ -172,6 +302,16 @@
         <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9551#top6"/>
         <updated>2024-09-25T15:55:57.000Z</updated>
         <summary type="html"><![CDATA[Klärwerk Karlsruhe, Sanierung der mechanischen Reinigungsstufe, Bauabschnitt 3]]></summary>
+        <author>
+            <name>Alle Tagesordnungspunkte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Besetzung von Ausschüssen und Funktionen des Ortschaftsrates]]></title>
+        <id>https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top4</id>
+        <link href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-9999#top4"/>
+        <updated>2024-09-25T09:44:56.000Z</updated>
+        <summary type="html"><![CDATA[Besetzung von Ausschüssen und Funktionen des Ortschaftsrates]]></summary>
         <author>
             <name>Alle Tagesordnungspunkte</name>
         </author>
